@@ -48,16 +48,42 @@ func startHandler(m *tg.NewMessage) error {
 		helpHandler(m)
 
 		default:	             
-        m.Respond("🌟 Welcome To Inaya Music 🌟", nil)
-        time.Sleep(1 * time.Second)
 
-        m.Respond("🎵 Best Music Experience 🎵", nil)
-        time.Sleep(1 * time.Second)
+         msg1, _ := m.Respond("🌟 Welcome To Inaya Music 🌟", nil)
+         time.Sleep(1 * time.Second)
+         if msg1 != nil {
+	     msg1.Delete()
+         }
 
-        m.Respond("💖 High Quality Streaming 💖", nil)
-        time.Sleep(1 * time.Second)
+         msg2, _ := m.Respond("🎵 Best Music Experience 🎵", nil)
+         time.Sleep(1 * time.Second)
+         if msg2 != nil {
+	     msg2.Delete()
+         }
 
-        m.Respond("✨ Powered By Yuvi ✨", nil)
+         msg3, _ := m.Respond("💖 High Quality Streaming 💖", nil)
+         time.Sleep(1 * time.Second)
+         if msg3 != nil {
+	     msg3.Delete()
+         }
+
+         msg4, _ := m.Respond(
+	     `✨ Powered By <a href="https://t.me/x_yuvii">Yuvi</a> ✨`,
+	     &tg.SendOptions{
+		 ParseMode: "HTML",
+	     },
+         )
+         time.Sleep(1 * time.Second)
+         if msg4 != nil {
+	    msg4.Delete()
+        }
+
+
+        _, _ = m.RespondSticker(
+	    "CAACAgUAAxkBAAEg1G5qY4WlzbzpH0Np-r2IyhRtREm7_wAC7BYAAj-FsVWpaDfP5N7RAj0E",
+	    nil,
+        )
+
         time.Sleep(1 * time.Second)
 		caption := F(m.ChannelID(), "start_private", locales.Arg{
 			"user": utils.MentionHTML(m.Sender),
