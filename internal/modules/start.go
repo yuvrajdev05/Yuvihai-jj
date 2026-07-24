@@ -1,3 +1,8 @@
+/*
+ * ○ A high-performance engine for streaming music in Telegram voicechats.
+ *
+ * Copyright (C) 2026 Team Arc
+ */
 
 package modules
 
@@ -42,31 +47,6 @@ func startHandler(m *tg.NewMessage) error {
 		helpHandler(m)
 
 	default:
-		_, _ = m.React("❤️")
-
-texts := []string{
-    "🌟 <b>Welcome to Lovelly X Music</b> 🌟",
-    "💖 <b>The Best Music Bot</b> on Telegram",
-    "🎵 <b>Studio-Quality Audio</b> Streaming",
-    "✨ Powered by <a href='https://t.me/X_yuvii'>Yuvi</a> ✨",
-}
-
-for _, text := range texts {
-    msg, err := m.Respond(text, nil)
-    if err == nil {
-        time.Sleep(1 * time.Second)
-        _ = msg.Delete()
-    }
-}
-
-// 🎁 Sticker (only if supported)
-_, _ = m.RespondSticker(
-    "CAACAgUAAxkBAAERaWlqM8oSyTbecmsvA_xMewrsFsTtRQACXwUAAk6ziVbiBKNW8Go2RDwE",
-    nil,
-)
-
-time.Sleep(500 * time.Millisecond)
-		
 		caption := F(m.ChannelID(), "start_private", locales.Arg{
 			"user": utils.MentionHTML(m.Sender),
 			"bot":  utils.MentionHTML(m.Client.Me()),
