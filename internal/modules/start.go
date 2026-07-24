@@ -7,6 +7,7 @@
 package modules
 
 import (
+	"time"
 	"github.com/Laky-64/gologging"
 	tg "github.com/amarnathcjd/gogram/telegram"
 
@@ -46,7 +47,18 @@ func startHandler(m *tg.NewMessage) error {
 		gologging.Info("User requested help via start param")
 		helpHandler(m)
 
-	default:
+		default:	             
+        m.Respond("🌟 Welcome To Inaya Music 🌟", nil)
+        time.Sleep(1 * time.Second)
+
+        m.Respond("🎵 Best Music Experience 🎵", nil)
+        time.Sleep(1 * time.Second)
+
+        m.Respond("💖 High Quality Streaming 💖", nil)
+        time.Sleep(1 * time.Second)
+
+        m.Respond("✨ Powered By Yuvi ✨", nil)
+        time.Sleep(1 * time.Second)
 		caption := F(m.ChannelID(), "start_private", locales.Arg{
 			"user": utils.MentionHTML(m.Sender),
 			"bot":  utils.MentionHTML(m.Client.Me()),
