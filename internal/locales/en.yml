@@ -1,32 +1,32 @@
-name: "🇺🇸 English"
+name: "🇺🇸 𝑬𝒏𝒈𝒍𝒊𝒔𝒉"
 
 # buttons
-CONFIRM_RESUME_BTN: "▶️ Resume"
-CONFIRM_UNMUTE_BTN: "🔊 Unmute"
-CONFIRM_STOP_BTN: "⏹️ Stop"
-ADD_ME_BTN: "Add Me to Your group"
-BROADCAST_CANCEL_BTN: "🚫 Cancel Broadcast"
-CLOSE_BTN: "Close"
-DOWNLOAD_CANCEL_BTN: "🚦 Cancel Downloading"
-GC_HELP_BTN: "📒 Commands"
+CONFIRM_RESUME_BTN: "▶️ 𝑹𝒆𝒔𝒖𝒎𝒆"
+CONFIRM_UNMUTE_BTN: "🔊 𝑼𝒏𝒎𝒖𝒕𝒆"
+CONFIRM_STOP_BTN: "⏹️ 𝑺𝒕𝒐𝒑"
+ADD_ME_BTN: "𝑨𝒅𝒅 𝑴𝒆 𝒕𝒐 𝒀𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑"
+BROADCAST_CANCEL_BTN: "🚫 𝑪𝒂𝒏𝒄𝒆𝒍 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕"
+CLOSE_BTN: "𝑪𝒍𝒐𝒔𝒆"
+DOWNLOAD_CANCEL_BTN: "🚦 𝑪𝒂𝒏𝒄𝒆𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒊𝒏𝒈"
+GC_HELP_BTN: "📒 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔"
 
-START_HELP_BTN: "Help & Commands"
-SOURCE_BTN: "Owner"
-UPDATES_BTN: "Updates"
-SUPPORT_BTN: "Support"
+START_HELP_BTN: "𝑯𝒆𝒍𝒑 & 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔"
+SOURCE_BTN: "𝑶𝒘𝒏𝒆𝒓"
+UPDATES_BTN: "𝑼𝒑𝒅𝒂𝒕𝒆𝒔"
+SUPPORT_BTN: "𝑺𝒖𝒑𝒑𝒐𝒓𝒕"
 
-HELP_ADMINS_BTN: "🛠 Admins"
-HELP_PUBLIC_BTN: "🌍 Public"
-HELP_OWNER_BTN: "👑 Owner"
-HELP_SUDOERS_BTN: "⚡ Sudoers"
+HELP_ADMINS_BTN: "🛠 𝑨𝒅𝒎𝒊𝒏𝒔"
+HELP_PUBLIC_BTN: "🌍 𝑷𝒖𝒃𝒍𝒊𝒄"
+HELP_OWNER_BTN: "👑 𝑶𝒘𝒏𝒆𝒓"
+HELP_SUDOERS_BTN: "⚡ 𝑺𝒖𝒅𝒐𝒆𝒓𝒔"
 
-BACK_BTN: "⬅️ Back"
+BACK_BTN: "⬅️ 𝑩𝒂𝒄𝒌"
 
 # basically this string used in /command [bool]
-invalid_bool: "⚠️ <b>Invalid value.</b>\nUse 'enable' or 'disable'."
+invalid_bool: "⚠️ <b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒗𝒂𝒍𝒖𝒆.</b>\𝒏𝑼𝒔𝒆 '𝒆𝒏𝒂𝒃𝒍𝒆' 𝒐𝒓 '𝒅𝒊𝒔𝒂𝒃𝒍𝒆'."
 
-active_chats_info: "📊 <b>Active Chats:</b>\n\nThere are {count} active chats across the bot system."
-active_chats_info_with_broken: "📊 <b>Active Chats:</b>\n\nThere are {count} active chats across the bot system, but {broken} of them may have issues displaying correctly."
+active_chats_info: "📊 <b>𝑨𝒄𝒕𝒊𝒗𝒆 𝑪𝒉𝒂𝒕𝒔:</b>\𝒏\𝒏𝑻𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 {𝒄𝒐𝒖𝒏𝒕} 𝒂𝒄𝒕𝒊𝒗𝒆 𝒄𝒉𝒂𝒕𝒔 𝒂𝒄𝒓𝒐𝒔𝒔 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒔𝒚𝒔𝒕𝒆𝒎."
+active_chats_info_with_broken: "📊 <b>𝑨𝒄𝒕𝒊𝒗𝒆 𝑪𝒉𝒂𝒕𝒔:</b>\𝒏\𝒏𝑻𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 {𝒄𝒐𝒖𝒏𝒕} 𝒂𝒄𝒕𝒊𝒗𝒆 𝒄𝒉𝒂𝒕𝒔 𝒂𝒄𝒓𝒐𝒔𝒔 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒔𝒚𝒔𝒕𝒆𝒎, 𝒃𝒖𝒕 {𝒃𝒓𝒐𝒌𝒆𝒏} 𝒐𝒇 𝒕𝒉𝒆𝒎 𝒎𝒂𝒚 𝒉𝒂𝒗𝒆 𝒊𝒔𝒔𝒖𝒆𝒔 𝒅𝒊𝒔𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒍𝒚."
 
 
 # 🚫 Assistant Restricted / Banned
@@ -39,25 +39,25 @@ assistant_restricted_warning: |
   <i>Unban the assistant to restore all music features 🎵</i>
 
 # 🧩 Common auth messages
-auth_no_user: "⚠️ Please provide a user — use:\n{cmd} [user_id] or reply to a user's message."
-user_extract_fail: "⚠️ Unable to get that user: {error}"
-auth_limit_reached: "⚠️ This chat has reached the maximum authorized users limit ({limit}). Please remove someone before adding a new one."
-already_authed: "⚠️ That user is already authorized — no need to add them again."
+auth_no_user: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝒑𝒓𝒐𝒗𝒊𝒅𝒆 𝒂 𝒖𝒔𝒆𝒓 — 𝒖𝒔𝒆:\𝒏{𝒄𝒎𝒅} [𝒖𝒔𝒆𝒓_𝒊𝒅] 𝒐𝒓 𝒓𝒆𝒑𝒍𝒚 𝒕𝒐 𝒂 𝒖𝒔𝒆𝒓'𝒔 𝒎𝒆𝒔𝒔𝒂𝒈𝒆."
+user_extract_fail: "⚠️ 𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒕𝒉𝒂𝒕 𝒖𝒔𝒆𝒓: {𝒆𝒓𝒓𝒐𝒓}"
+auth_limit_reached: "⚠️ 𝑻𝒉𝒊𝒔 𝒄𝒉𝒂𝒕 𝒉𝒂𝒔 𝒓𝒆𝒂𝒄𝒉𝒆𝒅 𝒕𝒉𝒆 𝒎𝒂𝒙𝒊𝒎𝒖𝒎 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒍𝒊𝒎𝒊𝒕 ({𝒍𝒊𝒎𝒊𝒕}). 𝑷𝒍𝒆𝒂𝒔𝒆 𝒓𝒆𝒎𝒐𝒗𝒆 𝒔𝒐𝒎𝒆𝒐𝒏𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒂𝒅𝒅𝒊𝒏𝒈 𝒂 𝒏𝒆𝒘 𝒐𝒏𝒆."
+already_authed: "⚠️ 𝑻𝒉𝒂𝒕 𝒖𝒔𝒆𝒓 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 — 𝒏𝒐 𝒏𝒆𝒆𝒅 𝒕𝒐 𝒂𝒅𝒅 𝒕𝒉𝒆𝒎 𝒂𝒈𝒂𝒊𝒏."
 
 # 🤖 Add auth
-cannot_authorize_user: "⚠️ This user cannot be authorized.\nThe bot owner, the bot itself, or yourself do not require authorization."
-addauth_user_is_admin: "⚠️ This user is already a chat administrator. No authorization is required."
-addauth_bot_user: "🤖 You can’t add a bot to the auth list — authusers must be human!"
-addauth_add_fail: "❌ Failed to add authorized user: {error}"
-addauth_success_with_count: "✅ Added {user}.\nNow {count}/{limit} authorized users."
-addauth_success: "✅ Successfully added {user} to the authorized users list."
+cannot_authorize_user: "⚠️ 𝑻𝒉𝒊𝒔 𝒖𝒔𝒆𝒓 𝒄𝒂𝒏𝒏𝒐𝒕 𝒃𝒆 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅.\𝒏𝑻𝒉𝒆 𝒃𝒐𝒕 𝒐𝒘𝒏𝒆𝒓, 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒊𝒕𝒔𝒆𝒍𝒇, 𝒐𝒓 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇 𝒅𝒐 𝒏𝒐𝒕 𝒓𝒆𝒒𝒖𝒊𝒓𝒆 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒂𝒕𝒊𝒐𝒏."
+addauth_user_is_admin: "⚠️ 𝑻𝒉𝒊𝒔 𝒖𝒔𝒆𝒓 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒂 𝒄𝒉𝒂𝒕 𝒂𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒐𝒓. 𝑵𝒐 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅."
+addauth_bot_user: "🤖 𝒀𝒐𝒖 𝒄𝒂𝒏’𝒕 𝒂𝒅𝒅 𝒂 𝒃𝒐𝒕 𝒕𝒐 𝒕𝒉𝒆 𝒂𝒖𝒕𝒉 𝒍𝒊𝒔𝒕 — 𝒂𝒖𝒕𝒉𝒖𝒔𝒆𝒓𝒔 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒉𝒖𝒎𝒂𝒏!"
+addauth_add_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒂𝒅𝒅 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓: {𝒆𝒓𝒓𝒐𝒓}"
+addauth_success_with_count: "✅ 𝑨𝒅𝒅𝒆𝒅 {𝒖𝒔𝒆𝒓}.\𝒏𝑵𝒐𝒘 {𝒄𝒐𝒖𝒏𝒕}/{𝒍𝒊𝒎𝒊𝒕} 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔."
+addauth_success: "✅ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝒂𝒅𝒅𝒆𝒅 {𝒖𝒔𝒆𝒓} 𝒕𝒐 𝒕𝒉𝒆 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒍𝒊𝒔𝒕."
 
 # 🤖 Bot Added to Chat
-bot_added_normal: "🎵 Thanks for adding me! Use /play [song] to start playing music."
+bot_added_normal: "🎵 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒂𝒅𝒅𝒊𝒏𝒈 𝒎𝒆! 𝑼𝒔𝒆 /𝒑𝒍𝒂𝒚 [𝒔𝒐𝒏𝒈] 𝒕𝒐 𝒔𝒕𝒂𝒓𝒕 𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒎𝒖𝒔𝒊𝒄."
 
 # 🛠️ Bot Added During Maintenance
-bot_added_maintenance: "⚠️ I'm currently under maintenance and will be back soon. Thanks for your patience! ⏰"
-maint_reason_generic: "<i>📝 Reason: {reason}</i>"
+bot_added_maintenance: "⚠️ 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒖𝒏𝒅𝒆𝒓 𝒎𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒂𝒏𝒅 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒃𝒂𝒄𝒌 𝒔𝒐𝒐𝒏. 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖𝒓 𝒑𝒂𝒕𝒊𝒆𝒏𝒄𝒆! ⏰"
+maint_reason_generic: "<i>📝 𝑹𝒆𝒂𝒔𝒐𝒏: {𝒓𝒆𝒂𝒔𝒐𝒏}</i>"
 
 # ⚠️ Bot Demotion
 bot_demotion_goodbye: |
@@ -68,125 +68,125 @@ bot_demotion_goodbye: |
 
   <b>Goodbye 👋</b>
 
-broadcast_already_running: "⚠️ A broadcast is already running.\n\nPlease wait for it to complete or cancel it first using:\n• <code>/broadcast -cancel</code>\n• Or click the Cancel button on the progress message"
-broadcast_parse_failed: "❌ Failed to parse broadcast command:\n<code>{error}</code>"
-broadcast_no_content: "⚠️ No content provided for broadcast.\n\n<b>Usage:</b> <code>{cmd} [text or reply to message]</code>\n\n<b>Example:</b>\n<code>{cmd} Hello everyone!</code>"
-broadcast_fetch_chats_failed: "❌ Failed to fetch served chats:\n<code>{error}</code>"
-broadcast_fetch_users_failed: "❌ Failed to fetch served users:\n<code>{error}</code>"
-broadcast_no_targets: "⚠️ No targets found for broadcast.\n\nMake sure you haven't excluded all targets with flags."
-broadcast_initializing: "📡 Initializing broadcast...\n\nPlease wait..."
-broadcast_cancelled_header: "🚫 Broadcast Cancelled"
-broadcast_completed_header: "✅ Broadcast Completed"
-broadcast_progress_header: "📡 Broadcasting..."
-broadcast_total_chats: "📊 Total Chats: {done}/{total} ({progress}%)"
-broadcast_total_users: "👥 Total Users: {done}/{total} ({progress}%)"
-broadcast_failed_chats: "❌ Failed Chats: {count}"
-broadcast_failed_users: "❌ Failed Users: {count}"
-broadcast_delay: "⏱ Delay: {delay}s"
-broadcast_elapsed: "⏰ Elapsed: {elapsed}"
-broadcast_eta: "⏳ ETA: {eta}"
-broadcast_success_rate: "✨ Success Rate: {rate}% ({sent}/{total})"
-broadcast_not_running: "ℹ️ No broadcast is currently running."
-broadcast_cancel_success: "🚫 Broadcast cancelled successfully."
-broadcast_cancel_owner_only: "⚠️ Only the owner can cancel broadcasts."
-broadcast_cancel_none_running: "ℹ️ No broadcast is currently running."
-broadcast_cancel_done: "🚫 Broadcast cancelled."
+broadcast_already_running: "⚠️ 𝑨 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒓𝒖𝒏𝒏𝒊𝒏𝒈.\𝒏\𝒏𝑷𝒍𝒆𝒂𝒔𝒆 𝒘𝒂𝒊𝒕 𝒇𝒐𝒓 𝒊𝒕 𝒕𝒐 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒐𝒓 𝒄𝒂𝒏𝒄𝒆𝒍 𝒊𝒕 𝒇𝒊𝒓𝒔𝒕 𝒖𝒔𝒊𝒏𝒈:\𝒏• <code>/𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 -𝒄𝒂𝒏𝒄𝒆𝒍</code>\𝒏• 𝑶𝒓 𝒄𝒍𝒊𝒄𝒌 𝒕𝒉𝒆 𝑪𝒂𝒏𝒄𝒆𝒍 𝒃𝒖𝒕𝒕𝒐𝒏 𝒐𝒏 𝒕𝒉𝒆 𝒑𝒓𝒐𝒈𝒓𝒆𝒔𝒔 𝒎𝒆𝒔𝒔𝒂𝒈𝒆"
+broadcast_parse_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒑𝒂𝒓𝒔𝒆 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝒄𝒐𝒎𝒎𝒂𝒏𝒅:\𝒏<code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+broadcast_no_content: "⚠️ 𝑵𝒐 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 𝒑𝒓𝒐𝒗𝒊𝒅𝒆𝒅 𝒇𝒐𝒓 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕.\𝒏\𝒏<b>𝑼𝒔𝒂𝒈𝒆:</b> <code>{𝒄𝒎𝒅} [𝒕𝒆𝒙𝒕 𝒐𝒓 𝒓𝒆𝒑𝒍𝒚 𝒕𝒐 𝒎𝒆𝒔𝒔𝒂𝒈𝒆]</code>\𝒏\𝒏<b>𝑬𝒙𝒂𝒎𝒑𝒍𝒆:</b>\𝒏<code>{𝒄𝒎𝒅} 𝑯𝒆𝒍𝒍𝒐 𝒆𝒗𝒆𝒓𝒚𝒐𝒏𝒆!</code>"
+broadcast_fetch_chats_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒔𝒆𝒓𝒗𝒆𝒅 𝒄𝒉𝒂𝒕𝒔:\𝒏<code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+broadcast_fetch_users_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒔𝒆𝒓𝒗𝒆𝒅 𝒖𝒔𝒆𝒓𝒔:\𝒏<code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+broadcast_no_targets: "⚠️ 𝑵𝒐 𝒕𝒂𝒓𝒈𝒆𝒕𝒔 𝒇𝒐𝒖𝒏𝒅 𝒇𝒐𝒓 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕.\𝒏\𝒏𝑴𝒂𝒌𝒆 𝒔𝒖𝒓𝒆 𝒚𝒐𝒖 𝒉𝒂𝒗𝒆𝒏'𝒕 𝒆𝒙𝒄𝒍𝒖𝒅𝒆𝒅 𝒂𝒍𝒍 𝒕𝒂𝒓𝒈𝒆𝒕𝒔 𝒘𝒊𝒕𝒉 𝒇𝒍𝒂𝒈𝒔."
+broadcast_initializing: "📡 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒊𝒏𝒈 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕...\𝒏\𝒏𝑷𝒍𝒆𝒂𝒔𝒆 𝒘𝒂𝒊𝒕..."
+broadcast_cancelled_header: "🚫 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅"
+broadcast_completed_header: "✅ 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅"
+broadcast_progress_header: "📡 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕𝒊𝒏𝒈..."
+broadcast_total_chats: "📊 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: {𝒅𝒐𝒏𝒆}/{𝒕𝒐𝒕𝒂𝒍} ({𝒑𝒓𝒐𝒈𝒓𝒆𝒔𝒔}%)"
+broadcast_total_users: "👥 𝑻𝒐𝒕𝒂𝒍 𝑼𝒔𝒆𝒓𝒔: {𝒅𝒐𝒏𝒆}/{𝒕𝒐𝒕𝒂𝒍} ({𝒑𝒓𝒐𝒈𝒓𝒆𝒔𝒔}%)"
+broadcast_failed_chats: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑪𝒉𝒂𝒕𝒔: {𝒄𝒐𝒖𝒏𝒕}"
+broadcast_failed_users: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑼𝒔𝒆𝒓𝒔: {𝒄𝒐𝒖𝒏𝒕}"
+broadcast_delay: "⏱ 𝑫𝒆𝒍𝒂𝒚: {𝒅𝒆𝒍𝒂𝒚}𝒔"
+broadcast_elapsed: "⏰ 𝑬𝒍𝒂𝒑𝒔𝒆𝒅: {𝒆𝒍𝒂𝒑𝒔𝒆𝒅}"
+broadcast_eta: "⏳ 𝑬𝑻𝑨: {𝒆𝒕𝒂}"
+broadcast_success_rate: "✨ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔 𝑹𝒂𝒕𝒆: {𝒓𝒂𝒕𝒆}% ({𝒔𝒆𝒏𝒕}/{𝒕𝒐𝒕𝒂𝒍})"
+broadcast_not_running: "ℹ️ 𝑵𝒐 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝒊𝒔 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒓𝒖𝒏𝒏𝒊𝒏𝒈."
+broadcast_cancel_success: "🚫 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝒄𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚."
+broadcast_cancel_owner_only: "⚠️ 𝑶𝒏𝒍𝒚 𝒕𝒉𝒆 𝒐𝒘𝒏𝒆𝒓 𝒄𝒂𝒏 𝒄𝒂𝒏𝒄𝒆𝒍 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕𝒔."
+broadcast_cancel_none_running: "ℹ️ 𝑵𝒐 𝒃𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝒊𝒔 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒓𝒖𝒏𝒏𝒊𝒏𝒈."
+broadcast_cancel_done: "🚫 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝒄𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅."
 
 # 🎧 CPlay (Channel Play)
 
-cplay_id_not_set: "⚠️ cplay ID not set.\nUse <code>/cplay --set &lt;chat_id&gt;</code> to set it."
-cplay_usage: "<b>Usage:</b> <code>/cplay --set &lt;channel_id&gt;</code>"
-cplay_invalid_chat_id: "<b>Invalid Chat ID:</b> Please provide a valid integer ID for the channel."
-cplay_resolve_peer_fail: "<b>Failed to resolve peer:</b> Could not fetch channel details. Ensure I can access this channel."
-cplay_invalid_target: "<b>Invalid Target:</b> The provided ID is not a valid channel."
-cplay_channel_not_accessible: "<b>Channel Not Accessible:</b> Could not retrieve channel information. Please ensure I am an administrator in the target channel."
-cplay_save_error: "<b>Error:</b> Failed to save CPlay settings."
-cplay_enabled: "✅ <b>Channel Play enabled.</b> All <code>/c</code> commands will now work in channel <code>{channel_id}</code>."
+cplay_id_not_set: "⚠️ 𝒄𝒑𝒍𝒂𝒚 𝑰𝑫 𝒏𝒐𝒕 𝒔𝒆𝒕.\𝒏𝑼𝒔𝒆 <code>/𝒄𝒑𝒍𝒂𝒚 --𝒔𝒆𝒕 &𝒍𝒕;𝒄𝒉𝒂𝒕_𝒊𝒅&𝒈𝒕;</code> 𝒕𝒐 𝒔𝒆𝒕 𝒊𝒕."
+cplay_usage: "<b>𝑼𝒔𝒂𝒈𝒆:</b> <code>/𝒄𝒑𝒍𝒂𝒚 --𝒔𝒆𝒕 &𝒍𝒕;𝒄𝒉𝒂𝒏𝒏𝒆𝒍_𝒊𝒅&𝒈𝒕;</code>"
+cplay_invalid_chat_id: "<b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑪𝒉𝒂𝒕 𝑰𝑫:</b> 𝑷𝒍𝒆𝒂𝒔𝒆 𝒑𝒓𝒐𝒗𝒊𝒅𝒆 𝒂 𝒗𝒂𝒍𝒊𝒅 𝒊𝒏𝒕𝒆𝒈𝒆𝒓 𝑰𝑫 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒄𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_resolve_peer_fail: "<b>𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒔𝒐𝒍𝒗𝒆 𝒑𝒆𝒆𝒓:</b> 𝑪𝒐𝒖𝒍𝒅 𝒏𝒐𝒕 𝒇𝒆𝒕𝒄𝒉 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒅𝒆𝒕𝒂𝒊𝒍𝒔. 𝑬𝒏𝒔𝒖𝒓𝒆 𝑰 𝒄𝒂𝒏 𝒂𝒄𝒄𝒆𝒔𝒔 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_invalid_target: "<b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑻𝒂𝒓𝒈𝒆𝒕:</b> 𝑻𝒉𝒆 𝒑𝒓𝒐𝒗𝒊𝒅𝒆𝒅 𝑰𝑫 𝒊𝒔 𝒏𝒐𝒕 𝒂 𝒗𝒂𝒍𝒊𝒅 𝒄𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_channel_not_accessible: "<b>𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑵𝒐𝒕 𝑨𝒄𝒄𝒆𝒔𝒔𝒊𝒃𝒍𝒆:</b> 𝑪𝒐𝒖𝒍𝒅 𝒏𝒐𝒕 𝒓𝒆𝒕𝒓𝒊𝒆𝒗𝒆 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒆𝒏𝒔𝒖𝒓𝒆 𝑰 𝒂𝒎 𝒂𝒏 𝒂𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒐𝒓 𝒊𝒏 𝒕𝒉𝒆 𝒕𝒂𝒓𝒈𝒆𝒕 𝒄𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_save_error: "<b>𝑬𝒓𝒓𝒐𝒓:</b> 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒔𝒂𝒗𝒆 𝑪𝑷𝒍𝒂𝒚 𝒔𝒆𝒕𝒕𝒊𝒏𝒈𝒔."
+cplay_enabled: "✅ <b>𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑷𝒍𝒂𝒚 𝒆𝒏𝒂𝒃𝒍𝒆𝒅.</b> 𝑨𝒍𝒍 <code>/𝒄</code> 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝒘𝒊𝒍𝒍 𝒏𝒐𝒘 𝒘𝒐𝒓𝒌 𝒊𝒏 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 <code>{𝒄𝒉𝒂𝒏𝒏𝒆𝒍_𝒊𝒅}</code>."
 
 # Callback handler messages
-invalid_request: "⚠️ Invalid request."
-unknown_action: "⚠️ Unknown action."
-download_cancelled: "✅ Download cancelled."
-no_download_to_cancel: "ℹ️ No download to cancel."
+invalid_request: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒓𝒆𝒒𝒖𝒆𝒔𝒕."
+unknown_action: "⚠️ 𝑼𝒏𝒌𝒏𝒐𝒘𝒏 𝒂𝒄𝒕𝒊𝒐𝒏."
+download_cancelled: "✅ 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒄𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅."
+no_download_to_cancel: "ℹ️ 𝑵𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒕𝒐 𝒄𝒂𝒏𝒄𝒆𝒍."
 
 # Pause callback
-cb_pause_success: "⏸️ Track paused at {position}"
+cb_pause_success: "⏸️ 𝑻𝒓𝒂𝒄𝒌 𝒑𝒂𝒖𝒔𝒆𝒅 𝒂𝒕 {𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏}"
 cb_pause_message: |
   <b>⏸️ Track Paused</b>
 
-  <b>▫ Track:</b> <a href="{url}">{title}</a>
+  <b>▫ Track:</b> <a href="{𝒖𝒓𝒍}">{title}</a>
   <b>▫ Position:</b> {position} / {duration}
   <b>▫ Paused by:</b> {user}
 
 # Resume callback
-cb_already_playing: "ℹ️ Track is already playing."
-cb_resume_failed: "❌ Failed to resume playback."
-cb_resume_success: "▶️ Resumed at {position}."
+cb_already_playing: "ℹ️ 𝑻𝒓𝒂𝒄𝒌 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒑𝒍𝒂𝒚𝒊𝒏𝒈."
+cb_resume_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒔𝒖𝒎𝒆 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌."
+cb_resume_success: "▶️ 𝑹𝒆𝒔𝒖𝒎𝒆𝒅 𝒂𝒕 {𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏}."
 cb_resume_message: |
   <b>🎵 Now Playing:</b>
 
-  <b>Track:</b> <a href="{url}">{title}</a>
+  <b>Track:</b> <a href="{𝒖𝒓𝒍}">{title}</a>
   <b>Duration:</b> {duration}
   <b>Resumed by:</b> {user}
 
 # Replay callback
-cb_replaying: "🔁 <b>Replaying current track...</b>"
-cb_replay_failed: "❌ Failed to replay track."
-cb_replay_success: "🔁 Track replayed."
-cb_replay_edited: "🔁 Track replayed by {user}."
+cb_replaying: "🔁 <b>𝑹𝒆𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝒕𝒓𝒂𝒄𝒌...</b>"
+cb_replay_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒑𝒍𝒂𝒚 𝒕𝒓𝒂𝒄𝒌."
+cb_replay_success: "🔁 𝑻𝒓𝒂𝒄𝒌 𝒓𝒆𝒑𝒍𝒂𝒚𝒆𝒅."
+cb_replay_edited: "🔁 𝑻𝒓𝒂𝒄𝒌 𝒓𝒆𝒑𝒍𝒂𝒚𝒆𝒅 𝒃𝒚 {𝒖𝒔𝒆𝒓}."
 
 # Skip callback
-cb_skip_queue_empty: "⏹️ Playback stopped — queue empty."
-cb_skip_download_failed: "❌ Failed to download next track."
-cb_skip_play_failed: "❌ Failed to play next track."
-cb_skip_success: "⏭️ Track skipped."
-cb_skip_edited: "⏭️ Skipped by {user}"
+cb_skip_queue_empty: "⏹️ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒕𝒐𝒑𝒑𝒆𝒅 — 𝒒𝒖𝒆𝒖𝒆 𝒆𝒎𝒑𝒕𝒚."
+cb_skip_download_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒏𝒆𝒙𝒕 𝒕𝒓𝒂𝒄𝒌."
+cb_skip_play_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒑𝒍𝒂𝒚 𝒏𝒆𝒙𝒕 𝒕𝒓𝒂𝒄𝒌."
+cb_skip_success: "⏭️ 𝑻𝒓𝒂𝒄𝒌 𝒔𝒌𝒊𝒑𝒑𝒆𝒅."
+cb_skip_edited: "⏭️ 𝑺𝒌𝒊𝒑𝒑𝒆𝒅 𝒃𝒚 {𝒖𝒔𝒆𝒓}"
 
 # Stop callback
-cb_stop_success: "⏹️ Playback stopped."
+cb_stop_success: "⏹️ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒕𝒐𝒑𝒑𝒆𝒅."
 
 # Mute/Unmute callback
-cb_mute_success: "🔇 Muted."
+cb_mute_success: "🔇 𝑴𝒖𝒕𝒆𝒅."
 cb_mute_message: |
   <b>🔇 Playback Muted</b>
 
-  <b>Track:</b> <a href="{url}">{title}</a>
+  <b>Track:</b> <a href="{𝒖𝒓𝒍}">{title}</a>
   <b>Muted by:</b> {user}
 
-cb_unmute_success: "🔊 Unmuted."
+cb_unmute_success: "🔊 𝑼𝒏𝒎𝒖𝒕𝒆𝒅."
 
-cb_seek_success: "⏩ Sought forward {seconds} seconds"
-cb_seek_near_end: "⚠️ Cannot seek forward {seconds} seconds — about to reach end."
-cb_seek_edited: "⏩ Sought {seconds} seconds — by {user}"
+cb_seek_success: "⏩ 𝑺𝒐𝒖𝒈𝒉𝒕 𝒇𝒐𝒓𝒘𝒂𝒓𝒅 {𝒔𝒆𝒄𝒐𝒏𝒅𝒔} 𝒔𝒆𝒄𝒐𝒏𝒅𝒔"
+cb_seek_near_end: "⚠️ 𝑪𝒂𝒏𝒏𝒐𝒕 𝒔𝒆𝒆𝒌 𝒇𝒐𝒓𝒘𝒂𝒓𝒅 {𝒔𝒆𝒄𝒐𝒏𝒅𝒔} 𝒔𝒆𝒄𝒐𝒏𝒅𝒔 — 𝒂𝒃𝒐𝒖𝒕 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒆𝒏𝒅."
+cb_seek_edited: "⏩ 𝑺𝒐𝒖𝒈𝒉𝒕 {𝒔𝒆𝒄𝒐𝒏𝒅𝒔} 𝒔𝒆𝒄𝒐𝒏𝒅𝒔 — 𝒃𝒚 {𝒖𝒔𝒆𝒓}"
 
-cb_seekback_success: "⏪ Sought back {seconds} seconds"
-cb_seekback_edited: "⏪ Sought back {seconds} seconds — by {user}"
+cb_seekback_success: "⏪ 𝑺𝒐𝒖𝒈𝒉𝒕 𝒃𝒂𝒄𝒌 {𝒔𝒆𝒄𝒐𝒏𝒅𝒔} 𝒔𝒆𝒄𝒐𝒏𝒅𝒔"
+cb_seekback_edited: "⏪ 𝑺𝒐𝒖𝒈𝒉𝒕 𝒃𝒂𝒄𝒌 {𝒔𝒆𝒄𝒐𝒏𝒅𝒔} 𝒔𝒆𝒄𝒐𝒏𝒅𝒔 — 𝒃𝒚 {𝒖𝒔𝒆𝒓}"
 
 # 🗑️ Delete auth
-del_auth_not_authorized: "⚠️ That user isn’t authorized — nothing to remove."
-del_auth_remove_fail: "❌ Failed to remove authorized user: <code>{error}</code>"
-del_auth_success: "✅ Successfully removed {user} from the authorized users list."
+del_auth_not_authorized: "⚠️ 𝑻𝒉𝒂𝒕 𝒖𝒔𝒆𝒓 𝒊𝒔𝒏’𝒕 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 — 𝒏𝒐𝒕𝒉𝒊𝒏𝒈 𝒕𝒐 𝒓𝒆𝒎𝒐𝒗𝒆."
+del_auth_remove_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒎𝒐𝒗𝒆 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+del_auth_success: "✅ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝒓𝒆𝒎𝒐𝒗𝒆𝒅 {𝒖𝒔𝒆𝒓} 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒍𝒊𝒔𝒕."
 
 # 📜 Auth list
-authlist_fetch_fail: "❌ Failed to get authorized users list: <code>{error}</code>"
-authlist_empty: "ℹ️ There are no authorized users in this chat."
-authlist_fetching: "⏳ Fetching authorized users list..."
-authlist_header: "<b>Authorized Users:</b>"
-authlist_user_fail: "{index}. <code>{user_id}</code> (Could not fetch user info)"
-authlist_user_entry: "{index}. {user} (<code>{user_id}</code>)"
-authlist_total: "<b>Total:</b> {count} users"
+authlist_fetch_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒈𝒆𝒕 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒍𝒊𝒔𝒕: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+authlist_empty: "ℹ️ 𝑻𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 𝒏𝒐 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒕."
+authlist_fetching: "⏳ 𝑭𝒆𝒕𝒄𝒉𝒊𝒏𝒈 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒍𝒊𝒔𝒕..."
+authlist_header: "<b>𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔:</b>"
+authlist_user_fail: "{𝒊𝒏𝒅𝒆𝒙}. <code>{𝒖𝒔𝒆𝒓_𝒊𝒅}</code> (𝑪𝒐𝒖𝒍𝒅 𝒏𝒐𝒕 𝒇𝒆𝒕𝒄𝒉 𝒖𝒔𝒆𝒓 𝒊𝒏𝒇𝒐)"
+authlist_user_entry: "{𝒊𝒏𝒅𝒆𝒙}. {𝒖𝒔𝒆𝒓} (<code>{𝒖𝒔𝒆𝒓_𝒊𝒅}</code>)"
+authlist_total: "<b>𝑻𝒐𝒕𝒂𝒍:</b> {𝒄𝒐𝒖𝒏𝒕} 𝒖𝒔𝒆𝒓𝒔"
 
-autoleave_fetch_fail: "⚠️ <b>Failed to fetch AutoLeave state.</b>"
-autoleave_status: "🏃‍♂️ <b>AutoLeave Control</b>\n\nWhen enabled, the assistant will automatically leave the chat.\nUsage: {cmd} [enable|disable]\nCurrent state: {action}"
-autoleave_already: "⚠️ AutoLeave is already {action}"
-autoleave_update_fail: "⚠️ <b>Failed to update AutoLeave state.</b>"
-autoleave_updated: "🏃‍♂️ AutoLeave has been {action}"
+autoleave_fetch_fail: "⚠️ <b>𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝒔𝒕𝒂𝒕𝒆.</b>"
+autoleave_status: "🏃‍♂️ <b>𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝑪𝒐𝒏𝒕𝒓𝒐𝒍</b>\𝒏\𝒏𝑾𝒉𝒆𝒏 𝒆𝒏𝒂𝒃𝒍𝒆𝒅, 𝒕𝒉𝒆 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝒘𝒊𝒍𝒍 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒍𝒆𝒂𝒗𝒆 𝒕𝒉𝒆 𝒄𝒉𝒂𝒕.\𝒏𝑼𝒔𝒂𝒈𝒆: {𝒄𝒎𝒅} [𝒆𝒏𝒂𝒃𝒍𝒆|𝒅𝒊𝒔𝒂𝒃𝒍𝒆]\𝒏𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝒔𝒕𝒂𝒕𝒆: {𝒂𝒄𝒕𝒊𝒐𝒏}"
+autoleave_already: "⚠️ 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 {𝒂𝒄𝒕𝒊𝒐𝒏}"
+autoleave_update_fail: "⚠️ <b>𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒖𝒑𝒅𝒂𝒕𝒆 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝒔𝒕𝒂𝒕𝒆.</b>"
+autoleave_updated: "🏃‍♂️ 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 {𝒂𝒄𝒕𝒊𝒐𝒏}"
 
-enabled: "Enabled"
-disabled: "Disabled"
+enabled: "𝑬𝒏𝒂𝒃𝒍𝒆𝒅"
+disabled: "𝑫𝒊𝒔𝒂𝒃𝒍𝒆𝒅"
 
-bug_usasge: "⚠️ Please describe the bug. Usage: {cmd} <problem> or reply to a message."
-bug_thanks: "✅ Thank you for your bug report! It has been sent to the developers."
+bug_usasge: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝒅𝒆𝒔𝒄𝒓𝒊𝒃𝒆 𝒕𝒉𝒆 𝒃𝒖𝒈. 𝑼𝒔𝒂𝒈𝒆: {𝒄𝒎𝒅} <problem> 𝒐𝒓 𝒓𝒆𝒑𝒍𝒚 𝒕𝒐 𝒂 𝒎𝒆𝒔𝒔𝒂𝒈𝒆."
+bug_thanks: "✅ 𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒚𝒐𝒖𝒓 𝒃𝒖𝒈 𝒓𝒆𝒑𝒐𝒓𝒕! 𝑰𝒕 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒔𝒆𝒏𝒕 𝒕𝒐 𝒕𝒉𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓𝒔."
 
 bug_report_format: |
   <b>🐞 New Bug Report</b>
@@ -197,8 +197,8 @@ bug_report_format: |
   <b>Report:</b>
   <pre>{report}</pre>
   
-clear_no_active: "⚠️ <b>No active playback or queue to clear.</b>"
-clear_success: "✅ The queue has been cleared by {user}.\n<i>You can restore it using <code>/{cmd}</code> before adding new songs</i>"
+clear_no_active: "⚠️ <b>𝑵𝒐 𝒂𝒄𝒕𝒊𝒗𝒆 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒐𝒓 𝒒𝒖𝒆𝒖𝒆 𝒕𝒐 𝒄𝒍𝒆𝒂𝒓.</b>"
+clear_success: "✅ 𝑻𝒉𝒆 𝒒𝒖𝒆𝒖𝒆 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒄𝒍𝒆𝒂𝒓𝒆𝒅 𝒃𝒚 {𝒖𝒔𝒆𝒓}.\𝒏<i>𝒀𝒐𝒖 𝒄𝒂𝒏 𝒓𝒆𝒔𝒕𝒐𝒓𝒆 𝒊𝒕 𝒖𝒔𝒊𝒏𝒈 <code>/{𝒄𝒎𝒅}</code> 𝒃𝒆𝒇𝒐𝒓𝒆 𝒂𝒅𝒅𝒊𝒏𝒈 𝒏𝒆𝒘 𝒔𝒐𝒏𝒈𝒔</i>"
 
 err_assistant_banned: |
   <b>🚫 Assistant Restricted</b>
@@ -283,26 +283,26 @@ err_download_internal: |
   ⚠️ <b>Download failed</b> due to an unexpected internal error.
   Please try again later.
   
-flood_seconds: "⏳ Slow down! Try again in {duration} seconds."
-flood_minutes: "⏳ Please wait {duration} minutes before using this command again."
+flood_seconds: "⏳ 𝑺𝒍𝒐𝒘 𝒅𝒐𝒘𝒏! 𝑻𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒊𝒏 {𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏} 𝒔𝒆𝒄𝒐𝒏𝒅𝒔."
+flood_minutes: "⏳ 𝑷𝒍𝒆𝒂𝒔𝒆 𝒘𝒂𝒊𝒕 {𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏} 𝒎𝒊𝒏𝒖𝒕𝒆𝒔 𝒃𝒆𝒇𝒐𝒓𝒆 𝒖𝒔𝒊𝒏𝒈 𝒕𝒉𝒊𝒔 𝒄𝒐𝒎𝒎𝒂𝒏𝒅 𝒂𝒈𝒂𝒊𝒏."
 
-help_private_only: "🤖 Hi! For bot help and commands, please DM me directly — I'm more responsive in private chats!"
-help_main: "📚 <b>Help Menu</b>\n\nSelect a category below to explore detailed commands and their usage for managing, controlling, and customizing the bot."
+help_private_only: "🤖 𝑯𝒊! 𝑭𝒐𝒓 𝒃𝒐𝒕 𝒉𝒆𝒍𝒑 𝒂𝒏𝒅 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔, 𝒑𝒍𝒆𝒂𝒔𝒆 𝑫𝑴 𝒎𝒆 𝒅𝒊𝒓𝒆𝒄𝒕𝒍𝒚 — 𝑰'𝒎 𝒎𝒐𝒓𝒆 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆 𝒊𝒏 𝒑𝒓𝒊𝒗𝒂𝒕𝒆 𝒄𝒉𝒂𝒕𝒔!"
+help_main: "📚 <b>𝑯𝒆𝒍𝒑 𝑴𝒆𝒏𝒖</b>\𝒏\𝒏𝑺𝒆𝒍𝒆𝒄𝒕 𝒂 𝒄𝒂𝒕𝒆𝒈𝒐𝒓𝒚 𝒃𝒆𝒍𝒐𝒘 𝒕𝒐 𝒆𝒙𝒑𝒍𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝒂𝒏𝒅 𝒕𝒉𝒆𝒊𝒓 𝒖𝒔𝒂𝒈𝒆 𝒇𝒐𝒓 𝒎𝒂𝒏𝒂𝒈𝒊𝒏𝒈, 𝒄𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒊𝒏𝒈, 𝒂𝒏𝒅 𝒄𝒖𝒔𝒕𝒐𝒎𝒊𝒛𝒊𝒏𝒈 𝒕𝒉𝒆 𝒃𝒐𝒕."
 
-jump_no_active: "⚠️ No active track to jump within."
-jump_usage: "⚠️ Please provide seconds.\nExample: <code>{cmd} 120</code>"
-jump_invalid_position: "⚠️ Invalid position.\nExample: <code>{cmd} 120</code>"
-jump_too_close_end: "⚠️ Cannot jump to <b>{position}</b> — that’s too close to the end of the track."
-jump_failed: "❌ Failed to jump to <b>{position}</b>.\nError: <code>{error}</code>"
-jump_success: "⏩ Jumped to <u>{position}</u> of <u>{duration}</u>."
+jump_no_active: "⚠️ 𝑵𝒐 𝒂𝒄𝒕𝒊𝒗𝒆 𝒕𝒓𝒂𝒄𝒌 𝒕𝒐 𝒋𝒖𝒎𝒑 𝒘𝒊𝒕𝒉𝒊𝒏."
+jump_usage: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝒑𝒓𝒐𝒗𝒊𝒅𝒆 𝒔𝒆𝒄𝒐𝒏𝒅𝒔.\𝒏𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{𝒄𝒎𝒅} 120</code>"
+jump_invalid_position: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏.\𝒏𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{𝒄𝒎𝒅} 120</code>"
+jump_too_close_end: "⚠️ 𝑪𝒂𝒏𝒏𝒐𝒕 𝒋𝒖𝒎𝒑 𝒕𝒐 <b>{𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏}</b> — 𝒕𝒉𝒂𝒕’𝒔 𝒕𝒐𝒐 𝒄𝒍𝒐𝒔𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒆𝒏𝒅 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒓𝒂𝒄𝒌."
+jump_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒋𝒖𝒎𝒑 𝒕𝒐 <b>{𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏}</b>.\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+jump_success: "⏩ 𝑱𝒖𝒎𝒑𝒆𝒅 𝒕𝒐 <u>{𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏}</u> 𝒐𝒇 <u>{𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏}</u>."
 
-lang_same: "ℹ️ You’re already using this language."
-lang_select: "🌐 Select your preferred language:"
-lang_fail: "❌ Failed to update language. Please try again later."
-lang_success: "✅ Language successfully updated to {lang_name}."
+lang_same: "ℹ️ 𝒀𝒐𝒖’𝒓𝒆 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒖𝒔𝒊𝒏𝒈 𝒕𝒉𝒊𝒔 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆."
+lang_select: "🌐 𝑺𝒆𝒍𝒆𝒄𝒕 𝒚𝒐𝒖𝒓 𝒑𝒓𝒆𝒇𝒆𝒓𝒓𝒆𝒅 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆:"
+lang_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒖𝒑𝒅𝒂𝒕𝒆 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒕𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓."
+lang_success: "✅ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝒖𝒑𝒅𝒂𝒕𝒆𝒅 𝒕𝒐 {𝒍𝒂𝒏𝒈_𝒏𝒂𝒎𝒆}."
 
-logger_playback_started: "Playback Started"
-logger_playback_queued: "Playback Queued"
+logger_playback_started: "𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑺𝒕𝒂𝒓𝒕𝒆𝒅"
+logger_playback_queued: "𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑸𝒖𝒆𝒖𝒆𝒅"
 
 logger_bot_added: |
   🤖 <b>Bot Added to New Group</b>
@@ -335,72 +335,72 @@ logger_bot_started: |
   <b>Username:</b> {user_username}
   <b>ID:</b> {user_id}
   
-logger_track: "Track:"
-logger_source: "Source:"
-logger_group: "Group:"
-logger_requested_by: "Requested by:"
-logger_timestamp: "Timestamp:"
+logger_track: "𝑻𝒓𝒂𝒄𝒌:"
+logger_source: "𝑺𝒐𝒖𝒓𝒄𝒆:"
+logger_group: "𝑮𝒓𝒐𝒖𝒑:"
+logger_requested_by: "𝑹𝒆𝒒𝒖𝒆𝒔𝒕𝒆𝒅 𝒃𝒚:"
+logger_timestamp: "𝑻𝒊𝒎𝒆𝒔𝒕𝒂𝒎𝒑:"
 
-loop_usage: "🔁 <b>Loop Control</b>\n\nUsage: {cmd} [count]\n• 0 - Disable loop\n• 1-10 - Loop count\n\n<i>{count_line}</i>"
-loop_invalid: "⚠️ <b>Invalid loop count.</b>\nUse 0 to disable or 1-10 to set loop count."
-loop_already_set: "⚠️ Loop count is already set to <b>{count}</b> time(s)."
-loop_disabled: "🔁 Loop has been <b>disabled</b> by {user}"
-loop_set: "🔁 Set to loop <b>{count}</b> time(s)\n└ Changed by: {user}"
-loop_current: "• Current loop: <b>{count}</b> time(s)"
+loop_usage: "🔁 <b>𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍</b>\𝒏\𝒏𝑼𝒔𝒂𝒈𝒆: {𝒄𝒎𝒅} [𝒄𝒐𝒖𝒏𝒕]\𝒏• 0 - 𝑫𝒊𝒔𝒂𝒃𝒍𝒆 𝒍𝒐𝒐𝒑\𝒏• 1-10 - 𝑳𝒐𝒐𝒑 𝒄𝒐𝒖𝒏𝒕\𝒏\𝒏<i>{𝒄𝒐𝒖𝒏𝒕_𝒍𝒊𝒏𝒆}</i>"
+loop_invalid: "⚠️ <b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒍𝒐𝒐𝒑 𝒄𝒐𝒖𝒏𝒕.</b>\𝒏𝑼𝒔𝒆 0 𝒕𝒐 𝒅𝒊𝒔𝒂𝒃𝒍𝒆 𝒐𝒓 1-10 𝒕𝒐 𝒔𝒆𝒕 𝒍𝒐𝒐𝒑 𝒄𝒐𝒖𝒏𝒕."
+loop_already_set: "⚠️ 𝑳𝒐𝒐𝒑 𝒄𝒐𝒖𝒏𝒕 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒔𝒆𝒕 𝒕𝒐 <b>{𝒄𝒐𝒖𝒏𝒕}</b> 𝒕𝒊𝒎𝒆(𝒔)."
+loop_disabled: "🔁 𝑳𝒐𝒐𝒑 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 <b>𝒅𝒊𝒔𝒂𝒃𝒍𝒆𝒅</b> 𝒃𝒚 {𝒖𝒔𝒆𝒓}"
+loop_set: "🔁 𝑺𝒆𝒕 𝒕𝒐 𝒍𝒐𝒐𝒑 <b>{𝒄𝒐𝒖𝒏𝒕}</b> 𝒕𝒊𝒎𝒆(𝒔)\𝒏└ 𝑪𝒉𝒂𝒏𝒈𝒆𝒅 𝒃𝒚: {𝒖𝒔𝒆𝒓}"
+loop_current: "• 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝒍𝒐𝒐𝒑: <b>{𝒄𝒐𝒖𝒏𝒕}</b> 𝒕𝒊𝒎𝒆(𝒔)"
 
-logger_usage: "⚙️ Usage: <code>{cmd} [enable|disable]</code> - To enable or disable the logger\n\n{status}"
-logger_status: "📜 Current status: {action}"
-logger_check_fail: "❌ Failed to check logger status: {error}"
-logger_already: "ℹ️ Logger is already {action}."
-logger_update_fail: "❌ Failed to update logger setting: {error}"
-logger_updated: "✅ Logger has been {action} successfully."
+logger_usage: "⚙️ 𝑼𝒔𝒂𝒈𝒆: <code>{𝒄𝒎𝒅} [𝒆𝒏𝒂𝒃𝒍𝒆|𝒅𝒊𝒔𝒂𝒃𝒍𝒆]</code> - 𝑻𝒐 𝒆𝒏𝒂𝒃𝒍𝒆 𝒐𝒓 𝒅𝒊𝒔𝒂𝒃𝒍𝒆 𝒕𝒉𝒆 𝒍𝒐𝒈𝒈𝒆𝒓\𝒏\𝒏{𝒔𝒕𝒂𝒕𝒖𝒔}"
+logger_status: "📜 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝒔𝒕𝒂𝒕𝒖𝒔: {𝒂𝒄𝒕𝒊𝒐𝒏}"
+logger_check_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒄𝒉𝒆𝒄𝒌 𝒍𝒐𝒈𝒈𝒆𝒓 𝒔𝒕𝒂𝒕𝒖𝒔: {𝒆𝒓𝒓𝒐𝒓}"
+logger_already: "ℹ️ 𝑳𝒐𝒈𝒈𝒆𝒓 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 {𝒂𝒄𝒕𝒊𝒐𝒏}."
+logger_update_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒖𝒑𝒅𝒂𝒕𝒆 𝒍𝒐𝒈𝒈𝒆𝒓 𝒔𝒆𝒕𝒕𝒊𝒏𝒈: {𝒆𝒓𝒓𝒐𝒓}"
+logger_updated: "✅ 𝑳𝒐𝒈𝒈𝒆𝒓 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 {𝒂𝒄𝒕𝒊𝒐𝒏} 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚."
 
 # Logs module
-logs_invalid_number: "⚠️ <b>Invalid Number</b>\n\nThe value <code>{value}</code> is not a valid positive number.\n\n<b>Usage:</b> <code>/logs [number]</code> or <code>/logs -old [number]</code>"
-logs_invalid_flag: "⚠️ <b>Invalid Flag</b>\n\nUnknown flag or invalid input: <code>{flag}</code>\n\n<b>Valid options:</b>\n• <code>/logs</code> - Full log\n• <code>/logs [n]</code> - Last N lines\n• <code>/logs -old [n]</code> - Oldest log\n• <code>/logs -clear</code> - Clear logs"
-logs_file_error: "❌ <b>Log File Error</b>\n\nAn error occurred while accessing the log file:\n<code>{error}</code>"
-logs_send_error: "❌ <b>Log Send Failed</b>\n\nUnable to prepare or send the log file.\n<code>{error}</code>"
-logs_clear_failed: "❌ <b>Clear Failed</b>\n\nFailed to clear log file:\n<code>{error}</code>"
-logs_empty: "📭 <b>No Logs Available</b>\n\nThe log file either doesn’t exist yet or exists but contains no data.\n\nRun the bot for a while to generate logs."
-logs_preview_header: "📋 <b>Current Log Preview:</b>"
-logs_lines_header: "📋 <b>Recent Log Lines</b> (Last {count})"
-logs_old_header: "📋 <b>Oldest Log Lines</b> (First {count})"
-logs_uploading: "⏳ <b>Uploading log file...</b>\n\nPlease wait while the file is being prepared."
-logs_file_caption: "📄 <b>Log File Details</b>\n\n<b>Filename:</b> <code>{filename}</code>\n<b>Size:</b> {size_mb} MB\n<b>Last Modified:</b> {modified}"
-logs_lines_caption: "📋 <b>Recent Log Lines</b>\n\nShowing last {count} lines from current log."
-logs_old_caption: "📋 <b>Oldest Log Lines</b>\n\nShowing first {count} lines from the beginning of the log."
-logs_cleared: "✅ <b>Log File Cleared</b>\n\nSuccessfully cleared the log file.\n<b>Previous Size:</b> {size_mb} MB"
+logs_invalid_number: "⚠️ <b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑵𝒖𝒎𝒃𝒆𝒓</b>\𝒏\𝒏𝑻𝒉𝒆 𝒗𝒂𝒍𝒖𝒆 <code>{𝒗𝒂𝒍𝒖𝒆}</code> 𝒊𝒔 𝒏𝒐𝒕 𝒂 𝒗𝒂𝒍𝒊𝒅 𝒑𝒐𝒔𝒊𝒕𝒊𝒗𝒆 𝒏𝒖𝒎𝒃𝒆𝒓.\𝒏\𝒏<b>𝑼𝒔𝒂𝒈𝒆:</b> <code>/𝒍𝒐𝒈𝒔 [𝒏𝒖𝒎𝒃𝒆𝒓]</code> 𝒐𝒓 <code>/𝒍𝒐𝒈𝒔 -𝒐𝒍𝒅 [𝒏𝒖𝒎𝒃𝒆𝒓]</code>"
+logs_invalid_flag: "⚠️ <b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑭𝒍𝒂𝒈</b>\𝒏\𝒏𝑼𝒏𝒌𝒏𝒐𝒘𝒏 𝒇𝒍𝒂𝒈 𝒐𝒓 𝒊𝒏𝒗𝒂𝒍𝒊𝒅 𝒊𝒏𝒑𝒖𝒕: <code>{𝒇𝒍𝒂𝒈}</code>\𝒏\𝒏<b>𝑽𝒂𝒍𝒊𝒅 𝒐𝒑𝒕𝒊𝒐𝒏𝒔:</b>\𝒏• <code>/𝒍𝒐𝒈𝒔</code> - 𝑭𝒖𝒍𝒍 𝒍𝒐𝒈\𝒏• <code>/𝒍𝒐𝒈𝒔 [𝒏]</code> - 𝑳𝒂𝒔𝒕 𝑵 𝒍𝒊𝒏𝒆𝒔\𝒏• <code>/𝒍𝒐𝒈𝒔 -𝒐𝒍𝒅 [𝒏]</code> - 𝑶𝒍𝒅𝒆𝒔𝒕 𝒍𝒐𝒈\𝒏• <code>/𝒍𝒐𝒈𝒔 -𝒄𝒍𝒆𝒂𝒓</code> - 𝑪𝒍𝒆𝒂𝒓 𝒍𝒐𝒈𝒔"
+logs_file_error: "❌ <b>𝑳𝒐𝒈 𝑭𝒊𝒍𝒆 𝑬𝒓𝒓𝒐𝒓</b>\𝒏\𝒏𝑨𝒏 𝒆𝒓𝒓𝒐𝒓 𝒐𝒄𝒄𝒖𝒓𝒓𝒆𝒅 𝒘𝒉𝒊𝒍𝒆 𝒂𝒄𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒕𝒉𝒆 𝒍𝒐𝒈 𝒇𝒊𝒍𝒆:\𝒏<code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+logs_send_error: "❌ <b>𝑳𝒐𝒈 𝑺𝒆𝒏𝒅 𝑭𝒂𝒊𝒍𝒆𝒅</b>\𝒏\𝒏𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒑𝒓𝒆𝒑𝒂𝒓𝒆 𝒐𝒓 𝒔𝒆𝒏𝒅 𝒕𝒉𝒆 𝒍𝒐𝒈 𝒇𝒊𝒍𝒆.\𝒏<code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+logs_clear_failed: "❌ <b>𝑪𝒍𝒆𝒂𝒓 𝑭𝒂𝒊𝒍𝒆𝒅</b>\𝒏\𝒏𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒄𝒍𝒆𝒂𝒓 𝒍𝒐𝒈 𝒇𝒊𝒍𝒆:\𝒏<code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+logs_empty: "📭 <b>𝑵𝒐 𝑳𝒐𝒈𝒔 𝑨𝒗𝒂𝒊𝒍𝒂𝒃𝒍𝒆</b>\𝒏\𝒏𝑻𝒉𝒆 𝒍𝒐𝒈 𝒇𝒊𝒍𝒆 𝒆𝒊𝒕𝒉𝒆𝒓 𝒅𝒐𝒆𝒔𝒏’𝒕 𝒆𝒙𝒊𝒔𝒕 𝒚𝒆𝒕 𝒐𝒓 𝒆𝒙𝒊𝒔𝒕𝒔 𝒃𝒖𝒕 𝒄𝒐𝒏𝒕𝒂𝒊𝒏𝒔 𝒏𝒐 𝒅𝒂𝒕𝒂.\𝒏\𝒏𝑹𝒖𝒏 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒇𝒐𝒓 𝒂 𝒘𝒉𝒊𝒍𝒆 𝒕𝒐 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒆 𝒍𝒐𝒈𝒔."
+logs_preview_header: "📋 <b>𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑳𝒐𝒈 𝑷𝒓𝒆𝒗𝒊𝒆𝒘:</b>"
+logs_lines_header: "📋 <b>𝑹𝒆𝒄𝒆𝒏𝒕 𝑳𝒐𝒈 𝑳𝒊𝒏𝒆𝒔</b> (𝑳𝒂𝒔𝒕 {𝒄𝒐𝒖𝒏𝒕})"
+logs_old_header: "📋 <b>𝑶𝒍𝒅𝒆𝒔𝒕 𝑳𝒐𝒈 𝑳𝒊𝒏𝒆𝒔</b> (𝑭𝒊𝒓𝒔𝒕 {𝒄𝒐𝒖𝒏𝒕})"
+logs_uploading: "⏳ <b>𝑼𝒑𝒍𝒐𝒂𝒅𝒊𝒏𝒈 𝒍𝒐𝒈 𝒇𝒊𝒍𝒆...</b>\𝒏\𝒏𝑷𝒍𝒆𝒂𝒔𝒆 𝒘𝒂𝒊𝒕 𝒘𝒉𝒊𝒍𝒆 𝒕𝒉𝒆 𝒇𝒊𝒍𝒆 𝒊𝒔 𝒃𝒆𝒊𝒏𝒈 𝒑𝒓𝒆𝒑𝒂𝒓𝒆𝒅."
+logs_file_caption: "📄 <b>𝑳𝒐𝒈 𝑭𝒊𝒍𝒆 𝑫𝒆𝒕𝒂𝒊𝒍𝒔</b>\𝒏\𝒏<b>𝑭𝒊𝒍𝒆𝒏𝒂𝒎𝒆:</b> <code>{𝒇𝒊𝒍𝒆𝒏𝒂𝒎𝒆}</code>\𝒏<b>𝑺𝒊𝒛𝒆:</b> {𝒔𝒊𝒛𝒆_𝒎𝒃} 𝑴𝑩\𝒏<b>𝑳𝒂𝒔𝒕 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅:</b> {𝒎𝒐𝒅𝒊𝒇𝒊𝒆𝒅}"
+logs_lines_caption: "📋 <b>𝑹𝒆𝒄𝒆𝒏𝒕 𝑳𝒐𝒈 𝑳𝒊𝒏𝒆𝒔</b>\𝒏\𝒏𝑺𝒉𝒐𝒘𝒊𝒏𝒈 𝒍𝒂𝒔𝒕 {𝒄𝒐𝒖𝒏𝒕} 𝒍𝒊𝒏𝒆𝒔 𝒇𝒓𝒐𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝒍𝒐𝒈."
+logs_old_caption: "📋 <b>𝑶𝒍𝒅𝒆𝒔𝒕 𝑳𝒐𝒈 𝑳𝒊𝒏𝒆𝒔</b>\𝒏\𝒏𝑺𝒉𝒐𝒘𝒊𝒏𝒈 𝒇𝒊𝒓𝒔𝒕 {𝒄𝒐𝒖𝒏𝒕} 𝒍𝒊𝒏𝒆𝒔 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈 𝒐𝒇 𝒕𝒉𝒆 𝒍𝒐𝒈."
+logs_cleared: "✅ <b>𝑳𝒐𝒈 𝑭𝒊𝒍𝒆 𝑪𝒍𝒆𝒂𝒓𝒆𝒅</b>\𝒏\𝒏𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝒄𝒍𝒆𝒂𝒓𝒆𝒅 𝒕𝒉𝒆 𝒍𝒐𝒈 𝒇𝒊𝒍𝒆.\𝒏<b>𝑷𝒓𝒆𝒗𝒊𝒐𝒖𝒔 𝑺𝒊𝒛𝒆:</b> {𝒔𝒊𝒛𝒆_𝒎𝒃} 𝑴𝑩"
 
 # reason - if maintenance reason available so at the place of {reason} the maint_reason will provided
-maint: "⚠️ I'm under maintenance at the moment and temporarily unavailable. Please check back later.\n\n{reason}"
-maint_reason: "<i>📝 Reason: {reason}</i>"
+maint: "⚠️ 𝑰'𝒎 𝒖𝒏𝒅𝒆𝒓 𝒎𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒂𝒕 𝒕𝒉𝒆 𝒎𝒐𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒕𝒆𝒎𝒑𝒐𝒓𝒂𝒓𝒊𝒍𝒚 𝒖𝒏𝒂𝒗𝒂𝒊𝒍𝒂𝒃𝒍𝒆. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒄𝒉𝒆𝒄𝒌 𝒃𝒂𝒄𝒌 𝒍𝒂𝒕𝒆𝒓.\𝒏\𝒏{𝒓𝒆𝒂𝒔𝒐𝒏}"
+maint_reason: "<i>📝 𝑹𝒆𝒂𝒔𝒐𝒏: {𝒓𝒆𝒂𝒔𝒐𝒏}</i>"
 
 # ⚙️ Maintenance control
-maint_usage: "⚙️ <b>Maintenance Control</b>\n\nUsage: {cmd} [enable|disable] [reason]\n📜 Current status: {status}"
-maint_check_fail: "❌ Failed to check maintenance status: <code>{error}</code>"
-maint_already_enabled: "ℹ️ Maintenance mode is already enabled 🟢."
-maint_already_disabled: "ℹ️ Maintenance mode is already disabled 🔴."
-maint_already_reason_same: "ℹ️ Maintenance is already enabled with the same reason."
-maint_reason_removed: "✅ Maintenance reason removed successfully."
-maint_reason_updated: "✅ Maintenance reason updated.\n📝 Reason: {reason}"
-maint_enabled: "✅ Maintenance mode has been <b>enabled</b> successfully."
-maint_enabled_reason: "✅ Maintenance mode enabled.\n📝 Reason: {reason}"
-maint_disabled: "✅ Maintenance mode has been <b>disabled</b> successfully."
-maint_entering: "⚠️ Bot is entering maintenance mode..."
-enabled_with_reason: "🟢 Enabled\n📝 Reason: {reason}"
+maint_usage: "⚙️ <b>𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝑪𝒐𝒏𝒕𝒓𝒐𝒍</b>\𝒏\𝒏𝑼𝒔𝒂𝒈𝒆: {𝒄𝒎𝒅} [𝒆𝒏𝒂𝒃𝒍𝒆|𝒅𝒊𝒔𝒂𝒃𝒍𝒆] [𝒓𝒆𝒂𝒔𝒐𝒏]\𝒏📜 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝒔𝒕𝒂𝒕𝒖𝒔: {𝒔𝒕𝒂𝒕𝒖𝒔}"
+maint_check_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒄𝒉𝒆𝒄𝒌 𝒎𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒔𝒕𝒂𝒕𝒖𝒔: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+maint_already_enabled: "ℹ️ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒆𝒏𝒂𝒃𝒍𝒆𝒅 🟢."
+maint_already_disabled: "ℹ️ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒅𝒊𝒔𝒂𝒃𝒍𝒆𝒅 🔴."
+maint_already_reason_same: "ℹ️ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒆𝒏𝒂𝒃𝒍𝒆𝒅 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒔𝒂𝒎𝒆 𝒓𝒆𝒂𝒔𝒐𝒏."
+maint_reason_removed: "✅ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒓𝒆𝒂𝒔𝒐𝒏 𝒓𝒆𝒎𝒐𝒗𝒆𝒅 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚."
+maint_reason_updated: "✅ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒓𝒆𝒂𝒔𝒐𝒏 𝒖𝒑𝒅𝒂𝒕𝒆𝒅.\𝒏📝 𝑹𝒆𝒂𝒔𝒐𝒏: {𝒓𝒆𝒂𝒔𝒐𝒏}"
+maint_enabled: "✅ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 <b>𝒆𝒏𝒂𝒃𝒍𝒆𝒅</b> 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚."
+maint_enabled_reason: "✅ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆 𝒆𝒏𝒂𝒃𝒍𝒆𝒅.\𝒏📝 𝑹𝒆𝒂𝒔𝒐𝒏: {𝒓𝒆𝒂𝒔𝒐𝒏}"
+maint_disabled: "✅ 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 <b>𝒅𝒊𝒔𝒂𝒃𝒍𝒆𝒅</b> 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚."
+maint_entering: "⚠️ 𝑩𝒐𝒕 𝒊𝒔 𝒆𝒏𝒕𝒆𝒓𝒊𝒏𝒈 𝒎𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆..."
+enabled_with_reason: "🟢 𝑬𝒏𝒂𝒃𝒍𝒆𝒅\𝒏📝 𝑹𝒆𝒂𝒔𝒐𝒏: {𝒓𝒆𝒂𝒔𝒐𝒏}"
 
-move_usage: "⚠️ Usage: <code>{cmd} [from] [to]</code>"
-move_invalid_numbers: "⚠️ Invalid numbers. Example: <code>/{cmd} 2 1</code>"
-move_invalid_indexes_min: "⚠️ Indexes must be greater than 0."
-move_invalid_indexes_max: "⚠️ Queue has only {queue_len} tracks."
-move_success: "✅ Moved track from position {from} to {to} by {user}."
+move_usage: "⚠️ 𝑼𝒔𝒂𝒈𝒆: <code>{𝒄𝒎𝒅} [𝒇𝒓𝒐𝒎] [𝒕𝒐]</code>"
+move_invalid_numbers: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒏𝒖𝒎𝒃𝒆𝒓𝒔. 𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>/{𝒄𝒎𝒅} 2 1</code>"
+move_invalid_indexes_min: "⚠️ 𝑰𝒏𝒅𝒆𝒙𝒆𝒔 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒕𝒉𝒂𝒏 0."
+move_invalid_indexes_max: "⚠️ 𝑸𝒖𝒆𝒖𝒆 𝒉𝒂𝒔 𝒐𝒏𝒍𝒚 {𝒒𝒖𝒆𝒖𝒆_𝒍𝒆𝒏} 𝒕𝒓𝒂𝒄𝒌𝒔."
+move_success: "✅ 𝑴𝒐𝒗𝒆𝒅 𝒕𝒓𝒂𝒄𝒌 𝒇𝒓𝒐𝒎 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 {𝒇𝒓𝒐𝒎} 𝒕𝒐 {𝒕𝒐} 𝒃𝒚 {𝒖𝒔𝒆𝒓}."
 
 # 🔇 Mute messages
-mute_already_muted: "🔇 <b>Already Muted</b>\nThe music is already muted in this chat.\nWould you like to unmute it?"
-mute_already_muted_with_time: "🔇 <b>Already Muted</b>\nThe music is muted.\nAuto-unmute in <b>{duration}</b>."
-mute_invalid_duration: "⚠️ Invalid duration for auto-unmute.\nIt must be between <b>5</b> and <b>3600</b> seconds."
-mute_invalid_format: "⚠️ Invalid format.\nUse: <code>/{cmd} 30</code> or <code>/{cmd} 30s</code>"
-mute_failed: "❌ <b>Playback Mute Failed</b>\nError: <code>{error}</code>"
+mute_already_muted: "🔇 <b>𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑴𝒖𝒕𝒆𝒅</b>\𝒏𝑻𝒉𝒆 𝒎𝒖𝒔𝒊𝒄 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒎𝒖𝒕𝒆𝒅 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒕.\𝒏𝑾𝒐𝒖𝒍𝒅 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒐 𝒖𝒏𝒎𝒖𝒕𝒆 𝒊𝒕?"
+mute_already_muted_with_time: "🔇 <b>𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑴𝒖𝒕𝒆𝒅</b>\𝒏𝑻𝒉𝒆 𝒎𝒖𝒔𝒊𝒄 𝒊𝒔 𝒎𝒖𝒕𝒆𝒅.\𝒏𝑨𝒖𝒕𝒐-𝒖𝒏𝒎𝒖𝒕𝒆 𝒊𝒏 <b>{𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏}</b>."
+mute_invalid_duration: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒂𝒖𝒕𝒐-𝒖𝒏𝒎𝒖𝒕𝒆.\𝒏𝑰𝒕 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 <b>5</b> 𝒂𝒏𝒅 <b>3600</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔."
+mute_invalid_format: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒇𝒐𝒓𝒎𝒂𝒕.\𝒏𝑼𝒔𝒆: <code>/{𝒄𝒎𝒅} 30</code> 𝒐𝒓 <code>/{𝒄𝒎𝒅} 30𝒔</code>"
+mute_failed: "❌ <b>𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑴𝒖𝒕𝒆 𝑭𝒂𝒊𝒍𝒆𝒅</b>\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
 mute_success: |
   🔇 <b>Muted playback</b>
 
@@ -419,7 +419,7 @@ no_song_query: |
 
   Type <b>{cmd} [song name]</b> or reply to a <b>media</b> to start playing!
 
-no_song_found: "❌ No tracks found."
+no_song_found: "❌ 𝑵𝒐 𝒕𝒓𝒂𝒄𝒌𝒔 𝒇𝒐𝒖𝒏𝒅."
 
 nothumb_status: |
   🖼️ <b>Thumbnail Control</b>
@@ -430,24 +430,24 @@ nothumb_status: |
   
   Thumbnail is {action} currently.
   
-nothumb_fetch_fail: "⚠️ <b>Failed to fetch thumbnail setting.</b>"
-nothumb_already: "ℹ️ Thumbnail display is already {action}."
-nothumb_update_fail: "⚠️ <b>Failed to update thumbnail setting.</b>"
-nothumb_updated: "🖼️ Thumbnail display has been {action}."
+nothumb_fetch_fail: "⚠️ <b>𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝒔𝒆𝒕𝒕𝒊𝒏𝒈.</b>"
+nothumb_already: "ℹ️ 𝑻𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝒅𝒊𝒔𝒑𝒍𝒂𝒚 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 {𝒂𝒄𝒕𝒊𝒐𝒏}."
+nothumb_update_fail: "⚠️ <b>𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒖𝒑𝒅𝒂𝒕𝒆 𝒕𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝒔𝒆𝒕𝒕𝒊𝒏𝒈.</b>"
+nothumb_updated: "🖼️ 𝑻𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝒅𝒊𝒔𝒑𝒍𝒂𝒚 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 {𝒂𝒄𝒕𝒊𝒐𝒏}."
 
-cmddelete_status: "🗑️ <b>Command Delete Control</b>\n\nWhen enabled, I will automatically delete command messages.\nUsage: {cmd} [enable|disable]\nCurrent state: {action}"
-cmddelete_updated: "🗑️ Command deletion has been {action}."
+cmddelete_status: "🗑️ <b>𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝑫𝒆𝒍𝒆𝒕𝒆 𝑪𝒐𝒏𝒕𝒓𝒐𝒍</b>\𝒏\𝒏𝑾𝒉𝒆𝒏 𝒆𝒏𝒂𝒃𝒍𝒆𝒅, 𝑰 𝒘𝒊𝒍𝒍 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒅𝒆𝒍𝒆𝒕𝒆 𝒄𝒐𝒎𝒎𝒂𝒏𝒅 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔.\𝒏𝑼𝒔𝒂𝒈𝒆: {𝒄𝒎𝒅} [𝒆𝒏𝒂𝒃𝒍𝒆|𝒅𝒊𝒔𝒂𝒃𝒍𝒆]\𝒏𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝒔𝒕𝒂𝒕𝒆: {𝒂𝒄𝒕𝒊𝒐𝒏}"
+cmddelete_updated: "🗑️ 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒅𝒆𝒍𝒆𝒕𝒊𝒐𝒏 𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 {𝒂𝒄𝒕𝒊𝒐𝒏}."
 
-only_admin: "⚠️ <b>Permission Denied!</b>\nOnly <b>admins</b> can control this actions. You can still play songs 🎵.\n\nIf you believe you are an admin, please use /reload to refresh your admin status."
-only_admin_or_auth: "⚠️ <b>Access Denied</b>\nOnly <b>admins</b> or <b>authorized users</b> can control this actions.\n\nIf you recently became an admin, use /reload to refresh your permissions."
-only_admin_or_auth_cb: "⚠️ Only admins can do this actions."
-only_supergroup: "⚠️ This command can only be used in groups."
-only_owner: "⚠️ Only the bot owner can use this command."
-only_sudo: "⚠️ Only sudo users or the bot owner can use this command."
+only_admin: "⚠️ <b>𝑷𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 𝑫𝒆𝒏𝒊𝒆𝒅!</b>\𝒏𝑶𝒏𝒍𝒚 <b>𝒂𝒅𝒎𝒊𝒏𝒔</b> 𝒄𝒂𝒏 𝒄𝒐𝒏𝒕𝒓𝒐𝒍 𝒕𝒉𝒊𝒔 𝒂𝒄𝒕𝒊𝒐𝒏𝒔. 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒔𝒕𝒊𝒍𝒍 𝒑𝒍𝒂𝒚 𝒔𝒐𝒏𝒈𝒔 🎵.\𝒏\𝒏𝑰𝒇 𝒚𝒐𝒖 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒚𝒐𝒖 𝒂𝒓𝒆 𝒂𝒏 𝒂𝒅𝒎𝒊𝒏, 𝒑𝒍𝒆𝒂𝒔𝒆 𝒖𝒔𝒆 /𝒓𝒆𝒍𝒐𝒂𝒅 𝒕𝒐 𝒓𝒆𝒇𝒓𝒆𝒔𝒉 𝒚𝒐𝒖𝒓 𝒂𝒅𝒎𝒊𝒏 𝒔𝒕𝒂𝒕𝒖𝒔."
+only_admin_or_auth: "⚠️ <b>𝑨𝒄𝒄𝒆𝒔𝒔 𝑫𝒆𝒏𝒊𝒆𝒅</b>\𝒏𝑶𝒏𝒍𝒚 <b>𝒂𝒅𝒎𝒊𝒏𝒔</b> 𝒐𝒓 <b>𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔</b> 𝒄𝒂𝒏 𝒄𝒐𝒏𝒕𝒓𝒐𝒍 𝒕𝒉𝒊𝒔 𝒂𝒄𝒕𝒊𝒐𝒏𝒔.\𝒏\𝒏𝑰𝒇 𝒚𝒐𝒖 𝒓𝒆𝒄𝒆𝒏𝒕𝒍𝒚 𝒃𝒆𝒄𝒂𝒎𝒆 𝒂𝒏 𝒂𝒅𝒎𝒊𝒏, 𝒖𝒔𝒆 /𝒓𝒆𝒍𝒐𝒂𝒅 𝒕𝒐 𝒓𝒆𝒇𝒓𝒆𝒔𝒉 𝒚𝒐𝒖𝒓 𝒑𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏𝒔."
+only_admin_or_auth_cb: "⚠️ 𝑶𝒏𝒍𝒚 𝒂𝒅𝒎𝒊𝒏𝒔 𝒄𝒂𝒏 𝒅𝒐 𝒕𝒉𝒊𝒔 𝒂𝒄𝒕𝒊𝒐𝒏𝒔."
+only_supergroup: "⚠️ 𝑻𝒉𝒊𝒔 𝒄𝒐𝒎𝒎𝒂𝒏𝒅 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒃𝒆 𝒖𝒔𝒆𝒅 𝒊𝒏 𝒈𝒓𝒐𝒖𝒑𝒔."
+only_owner: "⚠️ 𝑶𝒏𝒍𝒚 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒐𝒘𝒏𝒆𝒓 𝒄𝒂𝒏 𝒖𝒔𝒆 𝒕𝒉𝒊𝒔 𝒄𝒐𝒎𝒎𝒂𝒏𝒅."
+only_sudo: "⚠️ 𝑶𝒏𝒍𝒚 𝒔𝒖𝒅𝒐 𝒖𝒔𝒆𝒓𝒔 𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒐𝒘𝒏𝒆𝒓 𝒄𝒂𝒏 𝒖𝒔𝒆 𝒕𝒉𝒊𝒔 𝒄𝒐𝒎𝒎𝒂𝒏𝒅."
 
-pause_invalid_duration: "⚠️ Invalid duration for auto-resume.\nIt must be between <b>5</b> and <b>3600</b> seconds."
-pause_invalid_format: "⚠️ Invalid format.\nUse: <code>/{cmd} 30</code> or <code>/{cmd} 30s</code>"
-auto_resume_line: "\n<i>⏳ Auto-resume in <b>{seconds}</b> seconds</i>"
+pause_invalid_duration: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒂𝒖𝒕𝒐-𝒓𝒆𝒔𝒖𝒎𝒆.\𝒏𝑰𝒕 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 <b>5</b> 𝒂𝒏𝒅 <b>3600</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔."
+pause_invalid_format: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒇𝒐𝒓𝒎𝒂𝒕.\𝒏𝑼𝒔𝒆: <code>/{𝒄𝒎𝒅} 30</code> 𝒐𝒓 <code>/{𝒄𝒎𝒅} 30𝒔</code>"
+auto_resume_line: "\𝒏<i>⏳ 𝑨𝒖𝒕𝒐-𝒓𝒆𝒔𝒖𝒎𝒆 𝒊𝒏 <b>{𝒔𝒆𝒄𝒐𝒏𝒅𝒔}</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔</i>"
 
 pause_already: |
   ⏸️ <b>Already Paused</b>
@@ -466,42 +466,42 @@ play_single_track_too_long: |
   {title} was skipped.
 
 play_download_failed: |
-  ❌ Failed to download "<i>{title}</i>".
+  ❌ Failed to download "<i>{𝒕𝒊𝒕𝒍𝒆}</i>".
   Error: <code>{error}</code>
 
 play_added_to_queue_single: |
   <b>Added to Queue:</b> #{index}
 
-  <b>Track:</b> <a href="{url}">{title}</a>
+  <b>Track:</b> <a href="{𝒖𝒓𝒍}">{title}</a>
   <b>Duration:</b> {duration}
   <b>Requested by:</b> {by}
 
-channel_play_depreciated: "⚠️ This handler is deprecated. Use <code><a>/cplay --set channel_id </code></a> to set your channel for playback."
-play_multiple_tracks_too_long_header: "<b>⚠️ {count} tracks were skipped (max duration {limit_mins} mins):</b>"
-play_multiple_tracks_too_long_item: "— <i>{title}</i>"
-play_multiple_tracks_too_long_more: "... and {remaining} more."
-play_all_tracks_skipped: "❌ All found tracks were skipped due to duration limits."
-play_failed: "❌ Failed to play\nError: {error}"
-play_unable: "<b> ❌ Unable to Play </b>\n\n<i>Please <b>restart the voice</b> chat.</i>"
-play_downloading_song: "📥 Downloading song \"{title}\""
-play_download_canceled: "⚠️ Download canceled by {user}."
+channel_play_depreciated: "⚠️ 𝑻𝒉𝒊𝒔 𝒉𝒂𝒏𝒅𝒍𝒆𝒓 𝒊𝒔 𝒅𝒆𝒑𝒓𝒆𝒄𝒂𝒕𝒆𝒅. 𝑼𝒔𝒆 <code><a>/𝒄𝒑𝒍𝒂𝒚 --𝒔𝒆𝒕 𝒄𝒉𝒂𝒏𝒏𝒆𝒍_𝒊𝒅 </code></a> 𝒕𝒐 𝒔𝒆𝒕 𝒚𝒐𝒖𝒓 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌."
+play_multiple_tracks_too_long_header: "<b>⚠️ {𝒄𝒐𝒖𝒏𝒕} 𝒕𝒓𝒂𝒄𝒌𝒔 𝒘𝒆𝒓𝒆 𝒔𝒌𝒊𝒑𝒑𝒆𝒅 (𝒎𝒂𝒙 𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏 {𝒍𝒊𝒎𝒊𝒕_𝒎𝒊𝒏𝒔} 𝒎𝒊𝒏𝒔):</b>"
+play_multiple_tracks_too_long_item: "— <i>{𝒕𝒊𝒕𝒍𝒆}</i>"
+play_multiple_tracks_too_long_more: "... 𝒂𝒏𝒅 {𝒓𝒆𝒎𝒂𝒊𝒏𝒊𝒏𝒈} 𝒎𝒐𝒓𝒆."
+play_all_tracks_skipped: "❌ 𝑨𝒍𝒍 𝒇𝒐𝒖𝒏𝒅 𝒕𝒓𝒂𝒄𝒌𝒔 𝒘𝒆𝒓𝒆 𝒔𝒌𝒊𝒑𝒑𝒆𝒅 𝒅𝒖𝒆 𝒕𝒐 𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒍𝒊𝒎𝒊𝒕𝒔."
+play_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒑𝒍𝒂𝒚\𝒏𝑬𝒓𝒓𝒐𝒓: {𝒆𝒓𝒓𝒐𝒓}"
+play_unable: "<b> ❌ 𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝑷𝒍𝒂𝒚 </b>\𝒏\𝒏<i>𝑷𝒍𝒆𝒂𝒔𝒆 <b>𝒓𝒆𝒔𝒕𝒂𝒓𝒕 𝒕𝒉𝒆 𝒗𝒐𝒊𝒄𝒆</b> 𝒄𝒉𝒂𝒕.</i>"
+play_downloading_song: "📥 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒊𝒏𝒈 𝒔𝒐𝒏𝒈 \"{title}\""
+play_download_canceled: "⚠️ 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒄𝒂𝒏𝒄𝒆𝒍𝒆𝒅 𝒃𝒚 {𝒖𝒔𝒆𝒓}."
 playmode_help: |
   🛠️ <b>Play Mode</b>
 
   <b>Status:</b> {status}
   <b>Usage:</b> <code>/playmode [enable|disable]</code>
 
-playmode_status_admins: "<b>Admins Only</b> 🔐"
-playmode_status_everyone: "<b>Everyone</b> 🌍"
-playmode_success_admins: "🛡️ <b>Play mode</b> is now restricted to <b>Admins & DJs</b> only. 🎧"
-playmode_success_everyone: "✅ <b>Play mode</b> is now <b>Open to Everyone</b>. Let the music flow! 🎶"
-playmode_restricted: "🚫 Play mode is enabled. Only admins and authorized users can play."
-play_added_multiple_header: "➕ <b>Added {count} tracks</b> by {user}"
-play_queue_limit_hint: "⚠️ Queue limit reached — some tracks were skipped."
-play_queue_view_hint: "Use /queue to view full list."
+playmode_status_admins: "<b>𝑨𝒅𝒎𝒊𝒏𝒔 𝑶𝒏𝒍𝒚</b> 🔐"
+playmode_status_everyone: "<b>𝑬𝒗𝒆𝒓𝒚𝒐𝒏𝒆</b> 🌍"
+playmode_success_admins: "🛡️ <b>𝑷𝒍𝒂𝒚 𝒎𝒐𝒅𝒆</b> 𝒊𝒔 𝒏𝒐𝒘 𝒓𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒆𝒅 𝒕𝒐 <b>𝑨𝒅𝒎𝒊𝒏𝒔 & 𝑫𝑱𝒔</b> 𝒐𝒏𝒍𝒚. 🎧"
+playmode_success_everyone: "✅ <b>𝑷𝒍𝒂𝒚 𝒎𝒐𝒅𝒆</b> 𝒊𝒔 𝒏𝒐𝒘 <b>𝑶𝒑𝒆𝒏 𝒕𝒐 𝑬𝒗𝒆𝒓𝒚𝒐𝒏𝒆</b>. 𝑳𝒆𝒕 𝒕𝒉𝒆 𝒎𝒖𝒔𝒊𝒄 𝒇𝒍𝒐𝒘! 🎶"
+playmode_restricted: "🚫 𝑷𝒍𝒂𝒚 𝒎𝒐𝒅𝒆 𝒊𝒔 𝒆𝒏𝒂𝒃𝒍𝒆𝒅. 𝑶𝒏𝒍𝒚 𝒂𝒅𝒎𝒊𝒏𝒔 𝒂𝒏𝒅 𝒂𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝒖𝒔𝒆𝒓𝒔 𝒄𝒂𝒏 𝒑𝒍𝒂𝒚."
+play_added_multiple_header: "➕ <b>𝑨𝒅𝒅𝒆𝒅 {𝒄𝒐𝒖𝒏𝒕} 𝒕𝒓𝒂𝒄𝒌𝒔</b> 𝒃𝒚 {𝒖𝒔𝒆𝒓}"
+play_queue_limit_hint: "⚠️ 𝑸𝒖𝒆𝒖𝒆 𝒍𝒊𝒎𝒊𝒕 𝒓𝒆𝒂𝒄𝒉𝒆𝒅 — 𝒔𝒐𝒎𝒆 𝒕𝒓𝒂𝒄𝒌𝒔 𝒘𝒆𝒓𝒆 𝒔𝒌𝒊𝒑𝒑𝒆𝒅."
+play_queue_view_hint: "𝑼𝒔𝒆 /𝒒𝒖𝒆𝒖𝒆 𝒕𝒐 𝒗𝒊𝒆𝒘 𝒇𝒖𝒍𝒍 𝒍𝒊𝒔𝒕."
 
 # 🏓 Ping messages
-ping_start: "🏓 Pinging..."
+ping_start: "🏓 𝑷𝒊𝒏𝒈𝒊𝒏𝒈..."
 ping_result: |
   <b>🏓 PONG</b>: <code>{latency}ms</code>
   
@@ -517,46 +517,46 @@ position_now: |
   📍 <code>{position} / {duration}</code>
   ⚙️ Speed: <b>{speed}x</b>
 
-queue_limit_reached: "⚠️ Queue limit reached ({limit} tracks max). Use /clear to clear queue."
-queue_no_active: "⚠️ <b>No active playback.</b>\n\nNothing is queued right now."
-queue_header: "🎶 <b>Current Queue</b>"
-queue_now_playing: "▶️ <b>Now Playing:</b>"
-queue_up_next: "⏭️ <b>Up Next:</b>"
-queue_more_line: "\n… and {remaining} more"
-queue_empty_tail: "📭 No more songs in queue."
-queue_empty: "⚠️ <b>The queue is already empty.</b>"
-queue_restored: "✅ Successfully restored <b>{count}</b> tracks to the queue."
-queue_restore_no_data: "❌ No cleared queue found to restore, or a new song has already been added."
+queue_limit_reached: "⚠️ 𝑸𝒖𝒆𝒖𝒆 𝒍𝒊𝒎𝒊𝒕 𝒓𝒆𝒂𝒄𝒉𝒆𝒅 ({𝒍𝒊𝒎𝒊𝒕} 𝒕𝒓𝒂𝒄𝒌𝒔 𝒎𝒂𝒙). 𝑼𝒔𝒆 /𝒄𝒍𝒆𝒂𝒓 𝒕𝒐 𝒄𝒍𝒆𝒂𝒓 𝒒𝒖𝒆𝒖𝒆."
+queue_no_active: "⚠️ <b>𝑵𝒐 𝒂𝒄𝒕𝒊𝒗𝒆 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌.</b>\𝒏\𝒏𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒊𝒔 𝒒𝒖𝒆𝒖𝒆𝒅 𝒓𝒊𝒈𝒉𝒕 𝒏𝒐𝒘."
+queue_header: "🎶 <b>𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑸𝒖𝒆𝒖𝒆</b>"
+queue_now_playing: "▶️ <b>𝑵𝒐𝒘 𝑷𝒍𝒂𝒚𝒊𝒏𝒈:</b>"
+queue_up_next: "⏭️ <b>𝑼𝒑 𝑵𝒆𝒙𝒕:</b>"
+queue_more_line: "\𝒏… 𝒂𝒏𝒅 {𝒓𝒆𝒎𝒂𝒊𝒏𝒊𝒏𝒈} 𝒎𝒐𝒓𝒆"
+queue_empty_tail: "📭 𝑵𝒐 𝒎𝒐𝒓𝒆 𝒔𝒐𝒏𝒈𝒔 𝒊𝒏 𝒒𝒖𝒆𝒖𝒆."
+queue_empty: "⚠️ <b>𝑻𝒉𝒆 𝒒𝒖𝒆𝒖𝒆 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒆𝒎𝒑𝒕𝒚.</b>"
+queue_restored: "✅ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝒓𝒆𝒔𝒕𝒐𝒓𝒆𝒅 <b>{𝒄𝒐𝒖𝒏𝒕}</b> 𝒕𝒓𝒂𝒄𝒌𝒔 𝒕𝒐 𝒕𝒉𝒆 𝒒𝒖𝒆𝒖𝒆."
+queue_restore_no_data: "❌ 𝑵𝒐 𝒄𝒍𝒆𝒂𝒓𝒆𝒅 𝒒𝒖𝒆𝒖𝒆 𝒇𝒐𝒖𝒏𝒅 𝒕𝒐 𝒓𝒆𝒔𝒕𝒐𝒓𝒆, 𝒐𝒓 𝒂 𝒏𝒆𝒘 𝒔𝒐𝒏𝒈 𝒉𝒂𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒃𝒆𝒆𝒏 𝒂𝒅𝒅𝒆𝒅."
 
 # 🔄 Reload
-reload_start: "⚙️ Reloading admin cache, voice chat status, and assistant status..."
+reload_start: "⚙️ 𝑹𝒆𝒍𝒐𝒂𝒅𝒊𝒏𝒈 𝒂𝒅𝒎𝒊𝒏 𝒄𝒂𝒄𝒉𝒆, 𝒗𝒐𝒊𝒄𝒆 𝒄𝒉𝒂𝒕 𝒔𝒕𝒂𝒕𝒖𝒔, 𝒂𝒏𝒅 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝒔𝒕𝒂𝒕𝒖𝒔..."
 
-reload_done: "<b>⚙️ Reload complete:</b>\n\n{summary}"
+reload_done: "<b>⚙️ 𝑹𝒆𝒍𝒐𝒂𝒅 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆:</b>\𝒏\𝒏{𝒔𝒖𝒎𝒎𝒂𝒓𝒚}"
 
-reload_admin_cache_ok: "<b>• Admin cache:</b> <i>✅ Done</i>"
-reload_admin_cache_fail: "<b>• Admin cache:</b> <i>❌ ({error})</i>"
+reload_admin_cache_ok: "<b>• 𝑨𝒅𝒎𝒊𝒏 𝒄𝒂𝒄𝒉𝒆:</b> <i>✅ 𝑫𝒐𝒏𝒆</i>"
+reload_admin_cache_fail: "<b>• 𝑨𝒅𝒎𝒊𝒏 𝒄𝒂𝒄𝒉𝒆:</b> <i>❌ ({𝒆𝒓𝒓𝒐𝒓})</i>"
 
-reload_voice_inactive: "<b>• Voice chat:</b> <i>⚪ Inactive</i>"
-reload_voice_admin_required: "<b>• Voice chat:</b> <i>❌ Admin permission required</i>"
-reload_voice_fail: "<b>• Voice chat:</b> <i>❌ ({error})</i>"
-reload_voice_active: "<b>• Voice chat:</b> <i>✅ Active</i>"
+reload_voice_inactive: "<b>• 𝑽𝒐𝒊𝒄𝒆 𝒄𝒉𝒂𝒕:</b> <i>⚪ 𝑰𝒏𝒂𝒄𝒕𝒊𝒗𝒆</i>"
+reload_voice_admin_required: "<b>• 𝑽𝒐𝒊𝒄𝒆 𝒄𝒉𝒂𝒕:</b> <i>❌ 𝑨𝒅𝒎𝒊𝒏 𝒑𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅</i>"
+reload_voice_fail: "<b>• 𝑽𝒐𝒊𝒄𝒆 𝒄𝒉𝒂𝒕:</b> <i>❌ ({𝒆𝒓𝒓𝒐𝒓})</i>"
+reload_voice_active: "<b>• 𝑽𝒐𝒊𝒄𝒆 𝒄𝒉𝒂𝒕:</b> <i>✅ 𝑨𝒄𝒕𝒊𝒗𝒆</i>"
 
-reload_assistant_banned: "<b>• Assistant:</b> <i>❌ Banned</i>"
-reload_assistant_admin_required: "<b>• Assistant:</b> <i>❌ Admin permission required</i>"
-reload_assistant_fail: "<b>• Assistant:</b> <i>❌ ({error})</i>"
-reload_assistant_present: "<b>• Assistant:</b> <i>✅ Present</i>"
-reload_assistant_not_present: "<b>• Assistant:</b> <i>⚪ Not present</i>"
-reload_room_reset: "<b>• Room:</b> <i>Reset ✅</i>"
+reload_assistant_banned: "<b>• 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕:</b> <i>❌ 𝑩𝒂𝒏𝒏𝒆𝒅</i>"
+reload_assistant_admin_required: "<b>• 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕:</b> <i>❌ 𝑨𝒅𝒎𝒊𝒏 𝒑𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅</i>"
+reload_assistant_fail: "<b>• 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕:</b> <i>❌ ({𝒆𝒓𝒓𝒐𝒓})</i>"
+reload_assistant_present: "<b>• 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕:</b> <i>✅ 𝑷𝒓𝒆𝒔𝒆𝒏𝒕</i>"
+reload_assistant_not_present: "<b>• 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕:</b> <i>⚪ 𝑵𝒐𝒕 𝒑𝒓𝒆𝒔𝒆𝒏𝒕</i>"
+reload_room_reset: "<b>• 𝑹𝒐𝒐𝒎:</b> <i>𝑹𝒆𝒔𝒆𝒕 ✅</i>"
 
 
-remove_usage: "⚠️ <b>Invalid usage.</b>\nUsage: <code>{cmd} [index]</code>"
-remove_invalid_index: "⚠️ <b>Invalid index.</b> It must be a <b>number</b>."
-remove_index_too_small: "⚠️ <b>Index must be greater than 0.</b>"
-remove_index_too_big: "⚠️ Invalid index. Queue only has <b>{total}</b> tracks."
-remove_success: "✅ Removed track at position <b>{index}</b> from the queue.\n👤 By: {user}"
+remove_usage: "⚠️ <b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒖𝒔𝒂𝒈𝒆.</b>\𝒏𝑼𝒔𝒂𝒈𝒆: <code>{𝒄𝒎𝒅} [𝒊𝒏𝒅𝒆𝒙]</code>"
+remove_invalid_index: "⚠️ <b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒊𝒏𝒅𝒆𝒙.</b> 𝑰𝒕 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒂 <b>𝒏𝒖𝒎𝒃𝒆𝒓</b>."
+remove_index_too_small: "⚠️ <b>𝑰𝒏𝒅𝒆𝒙 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒕𝒉𝒂𝒏 0.</b>"
+remove_index_too_big: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒊𝒏𝒅𝒆𝒙. 𝑸𝒖𝒆𝒖𝒆 𝒐𝒏𝒍𝒚 𝒉𝒂𝒔 <b>{𝒕𝒐𝒕𝒂𝒍}</b> 𝒕𝒓𝒂𝒄𝒌𝒔."
+remove_success: "✅ 𝑹𝒆𝒎𝒐𝒗𝒆𝒅 𝒕𝒓𝒂𝒄𝒌 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 <b>{𝒊𝒏𝒅𝒆𝒙}</b> 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒒𝒖𝒆𝒖𝒆.\𝒏👤 𝑩𝒚: {𝒖𝒔𝒆𝒓}"
 
 # 🔁 Replay
-replay_failed: "❌ <b>Replay Failed</b>\nError: <code>{error}</code>"
+replay_failed: "❌ <b>𝑹𝒆𝒑𝒍𝒂𝒚 𝑭𝒂𝒊𝒍𝒆𝒅</b>\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
 replay_success: |
   🔁 <b>Now replaying</b>
 
@@ -565,8 +565,8 @@ replay_success: |
   ⚙️ Speed: <b>{speed}x</b>
 
 # ▶️ Resume
-resume_already_playing: "ℹ️ <b>Already Playing</b>\nThe music is already playing in this chat.\nWould you like to pause it?"
-resume_failed: "❌ <b>Playback Resume Failed</b>\nError: <code>{error}</code>"
+resume_already_playing: "ℹ️ <b>𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈</b>\𝒏𝑻𝒉𝒆 𝒎𝒖𝒔𝒊𝒄 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒕.\𝒏𝑾𝒐𝒖𝒍𝒅 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆 𝒕𝒐 𝒑𝒂𝒖𝒔𝒆 𝒊𝒕?"
+resume_failed: "❌ <b>𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑹𝒆𝒔𝒖𝒎𝒆 𝑭𝒂𝒊𝒍𝒆𝒅</b>\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
 resume_success: |
   ▶️ <b>Resuming playback</b>
 
@@ -575,21 +575,21 @@ resume_success: |
   👤 Resumed by: {user}
   {speed_line}
 
-restart: "♻️ Restarting..."
-restart_exepath_fail: "❌ Failed to get executable path: {error}"
-restart_symlink_fail: "❌ Failed to resolve executable path: {error}"
-restart_service: "{bot} has just restarted. Sorry for the issues.\n\nStart playing again after 10–15 seconds."
-restart_initiated: "✅ Restart initiated successfully!"
-restart_fail: "❌ Failed to restart: {error}"
+restart: "♻️ 𝑹𝒆𝒔𝒕𝒂𝒓𝒕𝒊𝒏𝒈..."
+restart_exepath_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒈𝒆𝒕 𝒆𝒙𝒆𝒄𝒖𝒕𝒂𝒃𝒍𝒆 𝒑𝒂𝒕𝒉: {𝒆𝒓𝒓𝒐𝒓}"
+restart_symlink_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒔𝒐𝒍𝒗𝒆 𝒆𝒙𝒆𝒄𝒖𝒕𝒂𝒃𝒍𝒆 𝒑𝒂𝒕𝒉: {𝒆𝒓𝒓𝒐𝒓}"
+restart_service: "{𝒃𝒐𝒕} 𝒉𝒂𝒔 𝒋𝒖𝒔𝒕 𝒓𝒆𝒔𝒕𝒂𝒓𝒕𝒆𝒅. 𝑺𝒐𝒓𝒓𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒊𝒔𝒔𝒖𝒆𝒔.\𝒏\𝒏𝑺𝒕𝒂𝒓𝒕 𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒂𝒈𝒂𝒊𝒏 𝒂𝒇𝒕𝒆𝒓 10–15 𝒔𝒆𝒄𝒐𝒏𝒅𝒔."
+restart_initiated: "✅ 𝑹𝒆𝒔𝒕𝒂𝒓𝒕 𝒊𝒏𝒊𝒕𝒊𝒂𝒕𝒆𝒅 𝒔𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚!"
+restart_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒔𝒕𝒂𝒓𝒕: {𝒆𝒓𝒓𝒐𝒓}"
 
 
-room_not_active_cb: "⚠️ Nothing playing right now."
-room_no_active: "⚠️ <b>No active playback.</b>\n\n<i>There's nothing playing right now.</i>"
-room_not_linked: "⚠️ This channel isn't linked to any group."
+room_not_active_cb: "⚠️ 𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒓𝒊𝒈𝒉𝒕 𝒏𝒐𝒘."
+room_no_active: "⚠️ <b>𝑵𝒐 𝒂𝒄𝒕𝒊𝒗𝒆 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌.</b>\𝒏\𝒏<i>𝑻𝒉𝒆𝒓𝒆'𝒔 𝒏𝒐𝒕𝒉𝒊𝒏𝒈 𝒑𝒍𝒂𝒚𝒊𝒏𝒈 𝒓𝒊𝒈𝒉𝒕 𝒏𝒐𝒘.</i>"
+room_not_linked: "⚠️ 𝑻𝒉𝒊𝒔 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒊𝒔𝒏'𝒕 𝒍𝒊𝒏𝒌𝒆𝒅 𝒕𝒐 𝒂𝒏𝒚 𝒈𝒓𝒐𝒖𝒑."
 
-room_already_paused: "⏸️ Track is already paused. Tap ▶️ Resume to continue."
-room_already_paused_auto: "⏸️ Track is already paused — auto-resuming in {duration}."
-room_pause_failed: "❌ Failed to pause playback.\n\n<i>{error}</i>"
+room_already_paused: "⏸️ 𝑻𝒓𝒂𝒄𝒌 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒑𝒂𝒖𝒔𝒆𝒅. 𝑻𝒂𝒑 ▶️ 𝑹𝒆𝒔𝒖𝒎𝒆 𝒕𝒐 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒆."
+room_already_paused_auto: "⏸️ 𝑻𝒓𝒂𝒄𝒌 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒑𝒂𝒖𝒔𝒆𝒅 — 𝒂𝒖𝒕𝒐-𝒓𝒆𝒔𝒖𝒎𝒊𝒏𝒈 𝒊𝒏 {𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏}."
+room_pause_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒑𝒂𝒖𝒔𝒆 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌.\𝒏\𝒏<i>{𝒆𝒓𝒓𝒐𝒓}</i>"
 
 rtmp_not_configured: |
   ⚠️ <b>RTMP not configured!</b>
@@ -606,7 +606,7 @@ rtmp_init_failed: |
   ❌ <b>Failed to initialize RTMP stream:</b>
   <code>{error}</code>
 
-rtmp_starting_stream: "📡 <b>Starting RTMP stream...</b>"
+rtmp_starting_stream: "📡 <b>𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 𝑹𝑻𝑴𝑷 𝒔𝒕𝒓𝒆𝒂𝒎...</b>"
 
 rtmp_play_failed: |
   ❌ <b>Failed to start stream:</b>
@@ -615,13 +615,13 @@ rtmp_play_failed: |
 rtmp_now_streaming: |
   📡 <b>Now Streaming (RTMP):</b>
   
-  <b>Track:</b> <a href="{url}">{title}</a>
+  <b>Track:</b> <a href="{𝒖𝒓𝒍}">{title}</a>
   <b>Duration:</b> {duration}
   <b>Started by:</b> {by}
   
   ⚠️ Note: RTMP has ~15-30s buffering delay
 
-rtmp_not_streaming: "ℹ️ No active RTMP stream."
+rtmp_not_streaming: "ℹ️ 𝑵𝒐 𝒂𝒄𝒕𝒊𝒗𝒆 𝑹𝑻𝑴𝑷 𝒔𝒕𝒓𝒆𝒂𝒎."
 
 rtmp_stop_failed: |
   ❌ <b>Failed to stop stream:</b>
@@ -744,65 +744,65 @@ rtmp_configured_success: |
   Credentials are stored securely and never shown in the group.
 
 
-searching: "🔍 Searching..."
-searching_query: "🔍 Searching for: <b>{query}</b>..."
+searching: "🔍 𝑺𝒆𝒂𝒓𝒄𝒉𝒊𝒏𝒈..."
+searching_query: "🔍 𝑺𝒆𝒂𝒓𝒄𝒉𝒊𝒏𝒈 𝒇𝒐𝒓: <b>{𝒒𝒖𝒆𝒓𝒚}</b>..."
 
-speed_line: "⚙️ Speed: <b>{speed}x</b>"
+speed_line: "⚙️ 𝑺𝒑𝒆𝒆𝒅: <b>{𝒔𝒑𝒆𝒆𝒅}𝒙</b>"
 
-stats_system_header: "🔧 <b>System:</b>"
-stats_go_mem_header: "📦 <b>Internal Memory (Go):</b>"
-stats_server_header: "💻 <b>Server Stats:</b>"
-stats_served_header: "📊 <b>Served:</b>"
+stats_system_header: "🔧 <b>𝑺𝒚𝒔𝒕𝒆𝒎:</b>"
+stats_go_mem_header: "📦 <b>𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒍 𝑴𝒆𝒎𝒐𝒓𝒚 (𝑮𝒐):</b>"
+stats_server_header: "💻 <b>𝑺𝒆𝒓𝒗𝒆𝒓 𝑺𝒕𝒂𝒕𝒔:</b>"
+stats_served_header: "📊 <b>𝑺𝒆𝒓𝒗𝒆𝒅:</b>"
 
-stats_system_os_arch: "• OS: <code>{os}</code>, Arch: <code>{arch}</code>"
-stats_system_cpu_goroutines: "• CPUs: <code>{cpus}</code>, Goroutines: <code>{goroutines}</code>"
+stats_system_os_arch: "• 𝑶𝑺: <code>{𝒐𝒔}</code>, 𝑨𝒓𝒄𝒉: <code>{𝒂𝒓𝒄𝒉}</code>"
+stats_system_cpu_goroutines: "• 𝑪𝑷𝑼𝒔: <code>{𝒄𝒑𝒖𝒔}</code>, 𝑮𝒐𝒓𝒐𝒖𝒕𝒊𝒏𝒆𝒔: <code>{𝒈𝒐𝒓𝒐𝒖𝒕𝒊𝒏𝒆𝒔}</code>"
 
-stats_go_alloc: "• Alloc: <code>{alloc} MB</code>"
-stats_go_sys: "• Sys: <code>{sys} MB</code>"
-stats_go_gc: "• NumGC: <code>{gc_count}</code> ({emoji} {gc_rate}/min)"
+stats_go_alloc: "• 𝑨𝒍𝒍𝒐𝒄: <code>{𝒂𝒍𝒍𝒐𝒄} 𝑴𝑩</code>"
+stats_go_sys: "• 𝑺𝒚𝒔: <code>{𝒔𝒚𝒔} 𝑴𝑩</code>"
+stats_go_gc: "• 𝑵𝒖𝒎𝑮𝑪: <code>{𝒈𝒄_𝒄𝒐𝒖𝒏𝒕}</code> ({𝒆𝒎𝒐𝒋𝒊} {𝒈𝒄_𝒓𝒂𝒕𝒆}/𝒎𝒊𝒏)"
 
-stats_server_cpu: "• CPU Usage: {emoji} <code>{cpu}%</code>"
-stats_server_ram: "• RAM Usage: {emoji} <code>{used_gib} GiB</code> | <code>{total_gib} GiB</code>"
-stats_server_storage: "• Storage: <code>{used_gib} GiB</code> | <code>{total_gib} GiB</code>"
+stats_server_cpu: "• 𝑪𝑷𝑼 𝑼𝒔𝒂𝒈𝒆: {𝒆𝒎𝒐𝒋𝒊} <code>{𝒄𝒑𝒖}%</code>"
+stats_server_ram: "• 𝑹𝑨𝑴 𝑼𝒔𝒂𝒈𝒆: {𝒆𝒎𝒐𝒋𝒊} <code>{𝒖𝒔𝒆𝒅_𝒈𝒊𝒃} 𝑮𝒊𝑩</code> | <code>{𝒕𝒐𝒕𝒂𝒍_𝒈𝒊𝒃} 𝑮𝒊𝑩</code>"
+stats_server_storage: "• 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{𝒖𝒔𝒆𝒅_𝒈𝒊𝒃} 𝑮𝒊𝑩</code> | <code>{𝒕𝒐𝒕𝒂𝒍_𝒈𝒊𝒃} 𝑮𝒊𝑩</code>"
 
-stats_served_chats: "• Chats: <code>{count}</code>"
-stats_served_chats_err: "• Chats: <code>Error: {error}</code>"
+stats_served_chats: "• 𝑪𝒉𝒂𝒕𝒔: <code>{𝒄𝒐𝒖𝒏𝒕}</code>"
+stats_served_chats_err: "• 𝑪𝒉𝒂𝒕𝒔: <code>𝑬𝒓𝒓𝒐𝒓: {𝒆𝒓𝒓𝒐𝒓}</code>"
 
-stats_served_users: "• Users: <code>{count}</code>"
-stats_served_users_err: "• Users: <code>Error: {error}</code>"
+stats_served_users: "• 𝑼𝒔𝒆𝒓𝒔: <code>{𝒄𝒐𝒖𝒏𝒕}</code>"
+stats_served_users_err: "• 𝑼𝒔𝒆𝒓𝒔: <code>𝑬𝒓𝒓𝒐𝒓: {𝒆𝒓𝒓𝒐𝒓}</code>"
 
 
-sudo_owner_self: "😂 Haha, you’re the boss already! Why are you even trying to add yourself?"
-sudo_bot_self: "🤖 Haha, I’m the bot! I can’t add myself to the sudo list — even the owner can’t cheat me 😎"
-sudo_bot_user: "🤖 You can’t add a bot to the sudo list — sudoers must be human!"
+sudo_owner_self: "😂 𝑯𝒂𝒉𝒂, 𝒚𝒐𝒖’𝒓𝒆 𝒕𝒉𝒆 𝒃𝒐𝒔𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚! 𝑾𝒉𝒚 𝒂𝒓𝒆 𝒚𝒐𝒖 𝒆𝒗𝒆𝒏 𝒕𝒓𝒚𝒊𝒏𝒈 𝒕𝒐 𝒂𝒅𝒅 𝒚𝒐𝒖𝒓𝒔𝒆𝒍𝒇?"
+sudo_bot_self: "🤖 𝑯𝒂𝒉𝒂, 𝑰’𝒎 𝒕𝒉𝒆 𝒃𝒐𝒕! 𝑰 𝒄𝒂𝒏’𝒕 𝒂𝒅𝒅 𝒎𝒚𝒔𝒆𝒍𝒇 𝒕𝒐 𝒕𝒉𝒆 𝒔𝒖𝒅𝒐 𝒍𝒊𝒔𝒕 — 𝒆𝒗𝒆𝒏 𝒕𝒉𝒆 𝒐𝒘𝒏𝒆𝒓 𝒄𝒂𝒏’𝒕 𝒄𝒉𝒆𝒂𝒕 𝒎𝒆 😎"
+sudo_bot_user: "🤖 𝒀𝒐𝒖 𝒄𝒂𝒏’𝒕 𝒂𝒅𝒅 𝒂 𝒃𝒐𝒕 𝒕𝒐 𝒕𝒉𝒆 𝒔𝒖𝒅𝒐 𝒍𝒊𝒔𝒕 — 𝒔𝒖𝒅𝒐𝒆𝒓𝒔 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒉𝒖𝒎𝒂𝒏!"
 
-sudo_fetch_user_fail: "❌ Failed to fetch user info. Maybe the user is inaccessible.\n<i>{error}</i>"
-sudo_check_fail: "❌ Failed to check sudo existence: <i>{error}</i>"
-sudo_already: "⚠️ User {user} (ID:<code>{id}</code>) is already a sudoer."
-sudo_add_fail: "❌ Failed to add sudo: <i>{error}</i>"
-sudo_add_success: "✅ Added {user} (<code>{id}</code>) to sudoers."
-sudo_assistant_self: "🤖 The assistant is always in the sudo list by default — it cannot be added again."
+sudo_fetch_user_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒖𝒔𝒆𝒓 𝒊𝒏𝒇𝒐. 𝑴𝒂𝒚𝒃𝒆 𝒕𝒉𝒆 𝒖𝒔𝒆𝒓 𝒊𝒔 𝒊𝒏𝒂𝒄𝒄𝒆𝒔𝒔𝒊𝒃𝒍𝒆.\𝒏<i>{𝒆𝒓𝒓𝒐𝒓}</i>"
+sudo_check_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒄𝒉𝒆𝒄𝒌 𝒔𝒖𝒅𝒐 𝒆𝒙𝒊𝒔𝒕𝒆𝒏𝒄𝒆: <i>{𝒆𝒓𝒓𝒐𝒓}</i>"
+sudo_already: "⚠️ 𝑼𝒔𝒆𝒓 {𝒖𝒔𝒆𝒓} (𝑰𝑫:<code>{𝒊𝒅}</code>) 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒂 𝒔𝒖𝒅𝒐𝒆𝒓."
+sudo_add_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒂𝒅𝒅 𝒔𝒖𝒅𝒐: <i>{𝒆𝒓𝒓𝒐𝒓}</i>"
+sudo_add_success: "✅ 𝑨𝒅𝒅𝒆𝒅 {𝒖𝒔𝒆𝒓} (<code>{𝒊𝒅}</code>) 𝒕𝒐 𝒔𝒖𝒅𝒐𝒆𝒓𝒔."
+sudo_assistant_self: "🤖 𝑻𝒉𝒆 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝒊𝒔 𝒂𝒍𝒘𝒂𝒚𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒔𝒖𝒅𝒐 𝒍𝒊𝒔𝒕 𝒃𝒚 𝒅𝒆𝒇𝒂𝒖𝒍𝒕 — 𝒊𝒕 𝒄𝒂𝒏𝒏𝒐𝒕 𝒃𝒆 𝒂𝒅𝒅𝒆𝒅 𝒂𝒈𝒂𝒊𝒏."
 
-sudo_owner_remove_block: "😎 Nice try! You can’t remove the owner — they’re untouchable."
-sudo_assistant_cannot_remove: "🤖 The assistant is required and cannot be removed from the sudo list."
-sudo_not_exists: "⚠️ User {user} (<code>{id}</code>) is not a sudoer."
-sudo_remove_fail: "❌ Failed to remove sudo: <i>{error}</i>"
-sudo_remove_success: "🗑️ Removed {user} (ID: <code>{id}</code>) from sudoers."
+sudo_owner_remove_block: "😎 𝑵𝒊𝒄𝒆 𝒕𝒓𝒚! 𝒀𝒐𝒖 𝒄𝒂𝒏’𝒕 𝒓𝒆𝒎𝒐𝒗𝒆 𝒕𝒉𝒆 𝒐𝒘𝒏𝒆𝒓 — 𝒕𝒉𝒆𝒚’𝒓𝒆 𝒖𝒏𝒕𝒐𝒖𝒄𝒉𝒂𝒃𝒍𝒆."
+sudo_assistant_cannot_remove: "🤖 𝑻𝒉𝒆 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝒊𝒔 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒂𝒏𝒅 𝒄𝒂𝒏𝒏𝒐𝒕 𝒃𝒆 𝒓𝒆𝒎𝒐𝒗𝒆𝒅 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒔𝒖𝒅𝒐 𝒍𝒊𝒔𝒕."
+sudo_not_exists: "⚠️ 𝑼𝒔𝒆𝒓 {𝒖𝒔𝒆𝒓} (<code>{𝒊𝒅}</code>) 𝒊𝒔 𝒏𝒐𝒕 𝒂 𝒔𝒖𝒅𝒐𝒆𝒓."
+sudo_remove_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒓𝒆𝒎𝒐𝒗𝒆 𝒔𝒖𝒅𝒐: <i>{𝒆𝒓𝒓𝒐𝒓}</i>"
+sudo_remove_success: "🗑️ 𝑹𝒆𝒎𝒐𝒗𝒆𝒅 {𝒖𝒔𝒆𝒓} (𝑰𝑫: <code>{𝒊𝒅}</code>) 𝒇𝒓𝒐𝒎 𝒔𝒖𝒅𝒐𝒆𝒓𝒔."
 
-sudo_list_fetching: "⏳ Fetching sudoers list..."
-sudo_list_fetch_fail: "❌ Failed to get sudoers: <code>{error}</code>"
-sudo_list_header: "👑 <b>Current Sudoers:</b>"
-sudo_list_owner: "{index}. {user} — <b>Owner</b>"
-sudo_list_entry: "{index}. {user}"
-sudo_list_no_extra: "⚠️ No additional sudoers found."
+sudo_list_fetching: "⏳ 𝑭𝒆𝒕𝒄𝒉𝒊𝒏𝒈 𝒔𝒖𝒅𝒐𝒆𝒓𝒔 𝒍𝒊𝒔𝒕..."
+sudo_list_fetch_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒈𝒆𝒕 𝒔𝒖𝒅𝒐𝒆𝒓𝒔: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+sudo_list_header: "👑 <b>𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑺𝒖𝒅𝒐𝒆𝒓𝒔:</b>"
+sudo_list_owner: "{𝒊𝒏𝒅𝒆𝒙}. {𝒖𝒔𝒆𝒓} — <b>𝑶𝒘𝒏𝒆𝒓</b>"
+sudo_list_entry: "{𝒊𝒏𝒅𝒆𝒙}. {𝒖𝒔𝒆𝒓}"
+sudo_list_no_extra: "⚠️ 𝑵𝒐 𝒂𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝒔𝒖𝒅𝒐𝒆𝒓𝒔 𝒇𝒐𝒖𝒏𝒅."
 
-seek_no_active: "⚠️ <b>No track is currently playing.</b>"
-seek_usage: "⚠️ Please provide seconds.\nExample: <code>{cmd} 40</code>"
-seek_invalid_seconds: "⚠️ Invalid seconds value.\nExample: <code>{cmd} 40</code>"
-seek_too_close_start: "⚠️ Cannot seek backward <b>{seconds}</b> seconds — that would be too close to the beginning of the track."
-seek_too_close_end: "⚠️ Cannot seek forward <b>{seconds}</b> seconds — that would be too close to the end of the track."
-seek_failed: "❌ Failed to seek {direction} <b>{seconds}</b> seconds.\nError: <code>{error}</code>"
-seek_success: "{emoji} Jumped {direction} to <u>{position}</u> of <u>{duration}</u>."
+seek_no_active: "⚠️ <b>𝑵𝒐 𝒕𝒓𝒂𝒄𝒌 𝒊𝒔 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒑𝒍𝒂𝒚𝒊𝒏𝒈.</b>"
+seek_usage: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝒑𝒓𝒐𝒗𝒊𝒅𝒆 𝒔𝒆𝒄𝒐𝒏𝒅𝒔.\𝒏𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{𝒄𝒎𝒅} 40</code>"
+seek_invalid_seconds: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒔𝒆𝒄𝒐𝒏𝒅𝒔 𝒗𝒂𝒍𝒖𝒆.\𝒏𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{𝒄𝒎𝒅} 40</code>"
+seek_too_close_start: "⚠️ 𝑪𝒂𝒏𝒏𝒐𝒕 𝒔𝒆𝒆𝒌 𝒃𝒂𝒄𝒌𝒘𝒂𝒓𝒅 <b>{𝒔𝒆𝒄𝒐𝒏𝒅𝒔}</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔 — 𝒕𝒉𝒂𝒕 𝒘𝒐𝒖𝒍𝒅 𝒃𝒆 𝒕𝒐𝒐 𝒄𝒍𝒐𝒔𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒓𝒂𝒄𝒌."
+seek_too_close_end: "⚠️ 𝑪𝒂𝒏𝒏𝒐𝒕 𝒔𝒆𝒆𝒌 𝒇𝒐𝒓𝒘𝒂𝒓𝒅 <b>{𝒔𝒆𝒄𝒐𝒏𝒅𝒔}</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔 — 𝒕𝒉𝒂𝒕 𝒘𝒐𝒖𝒍𝒅 𝒃𝒆 𝒕𝒐𝒐 𝒄𝒍𝒐𝒔𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒆𝒏𝒅 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒓𝒂𝒄𝒌."
+seek_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒔𝒆𝒆𝒌 {𝒅𝒊𝒓𝒆𝒄𝒕𝒊𝒐𝒏} <b>{𝒔𝒆𝒄𝒐𝒏𝒅𝒔}</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔.\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+seek_success: "{𝒆𝒎𝒐𝒋𝒊} 𝑱𝒖𝒎𝒑𝒆𝒅 {𝒅𝒊𝒓𝒆𝒄𝒕𝒊𝒐𝒏} 𝒕𝒐 <u>{𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏}</u> 𝒐𝒇 <u>{𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏}</u>."
 
 stop_confirm_paused: |
   ⏸️ <b>Playback is currently paused.</b>
@@ -814,12 +814,12 @@ stop_confirm_muted: |
 
   Do you want to unmute or stop it completely?
 
-stopped: "⏹️ <b>Playback stopped and cleared by {user}.</b>"
+stopped: "⏹️ <b>𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒕𝒐𝒑𝒑𝒆𝒅 𝒂𝒏𝒅 𝒄𝒍𝒆𝒂𝒓𝒆𝒅 𝒃𝒚 {𝒖𝒔𝒆𝒓}.</b>"
 
-shuffle_current_state: "🔀 Currently shuffle is <b>{state}</b> for this chat.\n\nUse <code>{cmd}</code> to toggle it."
-shuffle_updated: "🔀 Shuffle <b>{state}</b> by {user}."
+shuffle_current_state: "🔀 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒔𝒉𝒖𝒇𝒇𝒍𝒆 𝒊𝒔 <b>{𝒔𝒕𝒂𝒕𝒆}</b> 𝒇𝒐𝒓 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒕.\𝒏\𝒏𝑼𝒔𝒆 <code>{𝒄𝒎𝒅}</code> 𝒕𝒐 𝒕𝒐𝒈𝒈𝒍𝒆 𝒊𝒕."
+shuffle_updated: "🔀 𝑺𝒉𝒖𝒇𝒇𝒍𝒆 <b>{𝒔𝒕𝒂𝒕𝒆}</b> 𝒃𝒚 {𝒖𝒔𝒆𝒓}."
 
-skip_stopped: "⏹️ Playback stopped. Queue is empty.\nSkipped by: {user}"
+skip_stopped: "⏹️ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒕𝒐𝒑𝒑𝒆𝒅. 𝑸𝒖𝒆𝒖𝒆 𝒊𝒔 𝒆𝒎𝒑𝒕𝒚.\𝒏𝑺𝒌𝒊𝒑𝒑𝒆𝒅 𝒃𝒚: {𝒖𝒔𝒆𝒓}"
 
 speed_usage: |
   💡 <b>Usage:</b>
@@ -831,7 +831,7 @@ speed_usage: |
   Example:
   <code>{cmd} 1.25 45</code> — play at 1.25x for 45 seconds.
 
-speed_current: "🎧 <b>Current Speed:</b> <code>{speed}x</code> for 🎵 <u>{title}</u>\n\n💡 Use <code>{cmd} reset</code> to restore normal playback."
+speed_current: "🎧 <b>𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑺𝒑𝒆𝒆𝒅:</b> <code>{𝒔𝒑𝒆𝒆𝒅}𝒙</code> 𝒇𝒐𝒓 🎵 <u>{𝒕𝒊𝒕𝒍𝒆}</u>\𝒏\𝒏💡 𝑼𝒔𝒆 <code>{𝒄𝒎𝒅} 𝒓𝒆𝒔𝒆𝒕</code> 𝒕𝒐 𝒓𝒆𝒔𝒕𝒐𝒓𝒆 𝒏𝒐𝒓𝒎𝒂𝒍 𝒑𝒍𝒂𝒚𝒃𝒂𝒄𝒌."
 
 speed_current_with_reset: |
   🎧 <b>Current Speed:</b> <code>{speed}x</code>
@@ -841,32 +841,32 @@ speed_current_with_reset: |
   
   💡 Use <code>{cmd} reset</code> to restore normal playback instantly.
 
-speed_invalid_value: "❌ Invalid speed value.\nExample: <code>{cmd} 1.5</code> or <code>{cmd} 2x</code>"
-speed_invalid_range: "⚠️ Speed must be between <b>0.50x</b> and <b>4.00x</b>."
-speed_invalid_duration: "⚠️ Invalid duration. It must be between <b>5</b> and <b>3600</b> seconds."
+speed_invalid_value: "❌ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒔𝒑𝒆𝒆𝒅 𝒗𝒂𝒍𝒖𝒆.\𝒏𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{𝒄𝒎𝒅} 1.5</code> 𝒐𝒓 <code>{𝒄𝒎𝒅} 2𝒙</code>"
+speed_invalid_range: "⚠️ 𝑺𝒑𝒆𝒆𝒅 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 <b>0.50𝒙</b> 𝒂𝒏𝒅 <b>4.00𝒙</b>."
+speed_invalid_duration: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝒅𝒖𝒓𝒂𝒕𝒊𝒐𝒏. 𝑰𝒕 𝒎𝒖𝒔𝒕 𝒃𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 <b>5</b> 𝒂𝒏𝒅 <b>3600</b> 𝒔𝒆𝒄𝒐𝒏𝒅𝒔."
 
-speed_already_set: "ℹ️ Playback speed is already <b>{speed}x</b> for 🎵 <b>{title}</b>"
+speed_already_set: "ℹ️ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒑𝒆𝒆𝒅 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 <b>{𝒔𝒑𝒆𝒆𝒅}𝒙</b> 𝒇𝒐𝒓 🎵 <b>{𝒕𝒊𝒕𝒍𝒆}</b>"
 
-speed_already_set_reset_hint: "ℹ️ Playback speed is already <b>{speed}x</b> for 🎵 <b>{title}</b>\n\n💡 Use <code>{cmd} reset</code> to return to normal speed."
+speed_already_set_reset_hint: "ℹ️ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒑𝒆𝒆𝒅 𝒊𝒔 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 <b>{𝒔𝒑𝒆𝒆𝒅}𝒙</b> 𝒇𝒐𝒓 🎵 <b>{𝒕𝒊𝒕𝒍𝒆}</b>\𝒏\𝒏💡 𝑼𝒔𝒆 <code>{𝒄𝒎𝒅} 𝒓𝒆𝒔𝒆𝒕</code> 𝒕𝒐 𝒓𝒆𝒕𝒖𝒓𝒏 𝒕𝒐 𝒏𝒐𝒓𝒎𝒂𝒍 𝒔𝒑𝒆𝒆𝒅."
 
 speed_failed: |
   ❌ Failed to change speed to <b>{speed}x</b>.
   Error: <code>{error}</code>
 
-speed_reset_success: "✅ Playback speed reset to <b>1.0x</b> by {user}"
+speed_reset_success: "✅ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒑𝒆𝒆𝒅 𝒓𝒆𝒔𝒆𝒕 𝒕𝒐 <b>1.0𝒙</b> 𝒃𝒚 {𝒖𝒔𝒆𝒓}"
 
-speed_set: "🚀 Playback speed set to <b>{speed}x</b> by {user}."
+speed_set: "🚀 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝒔𝒑𝒆𝒆𝒅 𝒔𝒆𝒕 𝒕𝒐 <b>{𝒔𝒑𝒆𝒆𝒅}𝒙</b> 𝒃𝒚 {𝒖𝒔𝒆𝒓}."
 speed_set_with_reset: |
   🚀 Playback speed set to <b>{speed}x</b> by {user}.
   ⏳ Will reset to normal after <b>{duration}</b> seconds.
 
 
-spt_fetch_fail: "⚠️ Failed to fetch network info: <code>{error}</code>"
-spt_servers_fetch_fail: "⚠️ Failed to fetch servers: <code>{error}</code>"
-spt_best_server_fail: "⚠️ Failed to find best server: <code>{error}</code>"
+spt_fetch_fail: "⚠️ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒏𝒆𝒕𝒘𝒐𝒓𝒌 𝒊𝒏𝒇𝒐: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+spt_servers_fetch_fail: "⚠️ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒔𝒆𝒓𝒗𝒆𝒓𝒔: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+spt_best_server_fail: "⚠️ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒇𝒊𝒏𝒅 𝒃𝒆𝒔𝒕 𝒔𝒆𝒓𝒗𝒆𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
 
-spt_running_download: "🚀 Running download test..."
-spt_running_upload: "📤 Running upload test..."
+spt_running_download: "🚀 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒕𝒆𝒔𝒕..."
+spt_running_upload: "📤 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝒖𝒑𝒍𝒐𝒂𝒅 𝒕𝒆𝒔𝒕..."
 
 spt_result: |
   <b>📡 SpeedTest Result</b>
@@ -888,37 +888,37 @@ spt_result: |
   Download: <code>{dl_mbps} Mbps</code>
   Upload: <code>{ul_mbps} Mbps</code>
 
-start_private: "Hello {user}, My name is {bot}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, JioSaavn, Soundcloud etc.\n\nFeel free to add me to your groups."
+start_private: "𝑯𝒆𝒍𝒍𝒐 {𝒖𝒔𝒆𝒓}, 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 {𝒃𝒐𝒕}.\𝒏\𝒏𝑰'𝒎 𝒂 𝒕𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝒔𝒕𝒓𝒆𝒂𝒎𝒊𝒏𝒈 𝒃𝒐𝒕 𝒘𝒊𝒕𝒉 𝒔𝒐𝒎𝒆 𝒖𝒔𝒆𝒇𝒖𝒍 𝒇𝒆𝒂𝒕𝒖𝒓𝒆𝒔. 𝑺𝒖𝒑𝒑𝒐𝒓𝒕𝒊𝒏𝒈 𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎𝒔 𝒍𝒊𝒌𝒆 𝒀𝒐𝒖𝒕𝒖𝒃𝒆, 𝑺𝒑𝒐𝒕𝒊𝒇𝒚, 𝑱𝒊𝒐𝑺𝒂𝒂𝒗𝒏, 𝑺𝒐𝒖𝒏𝒅𝒄𝒍𝒐𝒖𝒅 𝒆𝒕𝒄.\𝒏\𝒏𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒂𝒅𝒅 𝒎𝒆 𝒕𝒐 𝒚𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑𝒔."
 
-start_group: "<b>💫 I’m here!</b> Try a command… if you think you can handle me 😉"
+start_group: "<b>💫 𝑰’𝒎 𝒉𝒆𝒓𝒆!</b> 𝑻𝒓𝒚 𝒂 𝒄𝒐𝒎𝒎𝒂𝒏𝒅… 𝒊𝒇 𝒚𝒐𝒖 𝒕𝒉𝒊𝒏𝒌 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒉𝒂𝒏𝒅𝒍𝒆 𝒎𝒆 😉"
 
-stream_channelid_fail: "⚠️ Failed to get your connected channel’s ID."
-stream_queue_finished: "No more songs in the queue."
-stream_downloading_next: "Hold On !!\n\n📥 Downloading your next track..."
-stream_download_fail: "❌ Failed to download.\nError: <code>{error}</code>"
-stream_play_fail: "❌ Failed to play the song."
+stream_channelid_fail: "⚠️ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒈𝒆𝒕 𝒚𝒐𝒖𝒓 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒆𝒅 𝒄𝒉𝒂𝒏𝒏𝒆𝒍’𝒔 𝑰𝑫."
+stream_queue_finished: "𝑵𝒐 𝒎𝒐𝒓𝒆 𝒔𝒐𝒏𝒈𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒒𝒖𝒆𝒖𝒆."
+stream_downloading_next: "𝑯𝒐𝒍𝒅 𝑶𝒏 !!\𝒏\𝒏📥 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒏𝒆𝒙𝒕 𝒕𝒓𝒂𝒄𝒌..."
+stream_download_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅.\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
+stream_play_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝒑𝒍𝒂𝒚 𝒕𝒉𝒆 𝒔𝒐𝒏𝒈."
 stream_now_playing: |
   <b>🎵 Now Playing:</b>
 
-  <b>Track:</b> <a href="{url}">{title}</a>
+  <b>Track:</b> <a href="{𝒖𝒓𝒍}">{title}</a>
   <b>Duration:</b> {duration}
   <b>Requested by:</b> {by}
 
 
-sudo_join_owner: "👑 {user} — owner of {bot} — just entered the chat."
-sudo_join_sudo: "🛡️ {user}, a sudo user of {bot}, just joined the chat."
+sudo_join_owner: "👑 {𝒖𝒔𝒆𝒓} — 𝒐𝒘𝒏𝒆𝒓 𝒐𝒇 {𝒃𝒐𝒕} — 𝒋𝒖𝒔𝒕 𝒆𝒏𝒕𝒆𝒓𝒆𝒅 𝒕𝒉𝒆 𝒄𝒉𝒂𝒕."
+sudo_join_sudo: "🛡️ {𝒖𝒔𝒆𝒓}, 𝒂 𝒔𝒖𝒅𝒐 𝒖𝒔𝒆𝒓 𝒐𝒇 {𝒃𝒐𝒕}, 𝒋𝒖𝒔𝒕 𝒋𝒐𝒊𝒏𝒆𝒅 𝒕𝒉𝒆 𝒄𝒉𝒂𝒕."
 
 supergroup_needed: |
   This chat (ID: <code>{chat_id}</code>) is not a supergroup yet.
   <b>⚠️ Please convert this chat to a supergroup then add me as admin.</b>
   
   If you don't know how to convert, use this guide:
-  🔗 <a href=\"https://te.legra.ph/How-to-Convert-a-Group-to-a-Supergroup-01-02\">How to convert to a SuperGroup</a>
+  🔗 <a href=\"𝒉𝒕𝒕𝒑𝒔://𝒕𝒆.𝒍𝒆𝒈𝒓𝒂.𝒑𝒉/𝑯𝒐𝒘-𝒕𝒐-𝑪𝒐𝒏𝒗𝒆𝒓𝒕-𝒂-𝑮𝒓𝒐𝒖𝒑-𝒕𝒐-𝒂-𝑺𝒖𝒑𝒆𝒓𝒈𝒓𝒐𝒖𝒑-01-02\">How to convert to a SuperGroup</a>
   
   If you have any questions, join our support group:
   
-unmute_already: "ℹ️ <b>Already Unmuted</b>\nThe music is not muted in this chat."
-unmute_failed: "❌ <b>Playback Unmute Failed</b>\nError: <code>{error}</code>"
+unmute_already: "ℹ️ <b>𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑼𝒏𝒎𝒖𝒕𝒆𝒅</b>\𝒏𝑻𝒉𝒆 𝒎𝒖𝒔𝒊𝒄 𝒊𝒔 𝒏𝒐𝒕 𝒎𝒖𝒕𝒆𝒅 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒕."
+unmute_failed: "❌ <b>𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑼𝒏𝒎𝒖𝒕𝒆 𝑭𝒂𝒊𝒍𝒆𝒅</b>\𝒏𝑬𝒓𝒓𝒐𝒓: <code>{𝒆𝒓𝒓𝒐𝒓}</code>"
 unmute_success: |
   🔊 <b>Unmuted playback</b>
 
