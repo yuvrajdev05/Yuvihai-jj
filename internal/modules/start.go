@@ -47,7 +47,7 @@ func startHandler(m *tg.NewMessage) error {
 		gologging.Info("User requested help via start param")
 		helpHandler(m)
 
-		default:	             
+		default:		             
 
          msg1, _ := m.Respond("🌟 Welcome To Lovelly Music 🌟", nil)
          time.Sleep(1 * time.Second)
