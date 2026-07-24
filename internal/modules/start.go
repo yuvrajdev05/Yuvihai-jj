@@ -49,7 +49,7 @@ func startHandler(m *tg.NewMessage) error {
 
 		default:	             
 
-         msg1, _ := m.Respond("🌟 Welcome To Inaya Music 🌟", nil)
+         msg1, _ := m.Respond("🌟 Welcome To Lovelly Music 🌟", nil)
          time.Sleep(1 * time.Second)
          if msg1 != nil {
 	     msg1.Delete()
