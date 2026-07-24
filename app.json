@@ -68,7 +68,7 @@
         },
         "START_IMG_URL": {
             "description": "URL of the image to be displayed on the start message.",
-            "value": "https://files.catbox.moe/egnbec.jpg",
+            "value": "https://files.catbox.moe/2wv6zb.mp4",
             "required": false
         },
         "SUPPORT_CHAT": {
