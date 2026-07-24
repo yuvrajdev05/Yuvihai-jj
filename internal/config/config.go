@@ -116,7 +116,7 @@ func loadConfig() {
 
 	StartImage = getString(
 		"START_IMG_URL",
-		"https://files.catbox.moe/egnbec.jpg",
+		"https://files.catbox.moe/2wv6zb.mp4",
 	)
 	PingImage = getString(
 		"PING_IMG_URL",
