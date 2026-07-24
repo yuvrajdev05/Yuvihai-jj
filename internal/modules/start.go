@@ -78,12 +78,6 @@ func startHandler(m *tg.NewMessage) error {
 	    msg4.Delete()
         }
 
-
-        _, _ = m.RespondSticker(
-	    "CAACAgUAAxkBAAEg1G5qY4WlzbzpH0Np-r2IyhRtREm7_wAC7BYAAj-FsVWpaDfP5N7RAj0E",
-	    nil,
-        )
-
         time.Sleep(1 * time.Second)
 		caption := F(m.ChannelID(), "start_private", locales.Arg{
 			"user": utils.MentionHTML(m.Sender),
