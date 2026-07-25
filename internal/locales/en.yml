@@ -28,86 +28,85 @@ invalid_bool: "⚠️ <b>Invalid value.</b>\nUse 'enable' or 'disable'."
 active_chats_info: "📊 <b>Active Chats:</b>\n\nThere are {count} active chats across the bot system."
 active_chats_info_with_broken: "📊 <b>Active Chats:</b>\n\nThere are {count} active chats across the bot system, but {broken} of them may have issues displaying correctly."
 
-
 # 🚫 Assistant Restricted / Banned
 assistant_restricted_warning: |
-  ⚠️ <b>Assistant Restricted</b>
+  ⚠️ <b>𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒆𝒅</b>
 
-  The assistant {assistant} (ID: <code>{id}</code>) has been <b>banned</b> or restricted in this chat.
-  I cannot play music, manage the queue, or clean up tracks while this continues.
+  𝑻𝒉𝒆 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 {assistant} (𝑰𝑫: <code>{id}</code>) 𝑯𝒂𝒔 𝑩𝒆𝒆𝒏 <b>𝑩𝒂𝒏𝒏𝒆𝒅</b> 𝑶𝒓 𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒆𝒅 𝑰𝒏 𝑻𝒉𝒊𝒔 𝑪𝒉𝒂𝒕.
+  𝑰 𝑪𝒂𝒏𝒏𝒐𝒕 𝑷𝒍𝒂𝒚 𝑴𝒖𝒔𝒊𝒄, 𝑴𝒂𝒏𝒂𝒈𝒆 𝑻𝒉𝒆 𝑸𝒖𝒆𝒖𝒆, 𝑶𝒓 𝑪𝒍𝒆𝒂𝒏 𝑼𝒑 𝑻𝒓𝒂𝒄𝒌𝒔 𝑾𝒉𝒊𝒍𝒆 𝑻𝒉𝒊𝒔 𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒆𝒔.
 
-  <i>Unban the assistant to restore all music features 🎵</i>
+  <i>𝑼𝒏𝒃𝒂𝒏 𝑻𝒉𝒆 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑻𝒐 𝑹𝒆𝒔𝒕𝒐𝒓𝒆 𝑨𝒍𝒍 𝑴𝒖𝒔𝒊𝒄 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔 🎵</i>
 
 # 🧩 Common auth messages
-auth_no_user: "⚠️ Please provide a user — use:\n{cmd} [user_id] or reply to a user's message."
-user_extract_fail: "⚠️ Unable to get that user: {error}"
-auth_limit_reached: "⚠️ This chat has reached the maximum authorized users limit ({limit}). Please remove someone before adding a new one."
-already_authed: "⚠️ That user is already authorized — no need to add them again."
+auth_no_user: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑨 𝑼𝒔𝒆𝒓 — 𝑼𝒔𝒆:\n{cmd} [user_id] 𝑶𝒓 𝑹𝒆𝒑𝒍𝒚 𝑻𝒐 𝑨 𝑼𝒔𝒆𝒓'𝒔 𝑴𝒆𝒔𝒔𝒂𝒈𝒆."
+user_extract_fail: "⚠️ 𝑼𝒏𝒂𝒃𝒍𝒆 𝑻𝒐 𝑮𝒆𝒕 𝑻𝒉𝒂𝒕 𝑼𝒔𝒆𝒓: {error}"
+auth_limit_reached: "⚠️ 𝑻𝒉𝒊𝒔 𝑪𝒉𝒂𝒕 𝑯𝒂𝒔 𝑹𝒆𝒂𝒄𝒉𝒆𝒅 𝑻𝒉𝒆 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔 𝑳𝒊𝒎𝒊𝒕 ({limit}). 𝑷𝒍𝒆𝒂𝒔𝒆 𝑹𝒆𝒎𝒐𝒗𝒆 𝑺𝒐𝒎𝒆𝒐𝒏𝒆 𝑩𝒆𝒇𝒐𝒓𝒆 𝑨𝒅𝒅𝒊𝒏𝒈 𝑨 𝑵𝒆𝒘 𝑶𝒏𝒆."
+already_authed: "⚠️ 𝑻𝒉𝒂𝒕 𝑼𝒔𝒆𝒓 𝑰𝒔 𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 — 𝑵𝒐 𝑵𝒆𝒆𝒅 𝑻𝒐 𝑨𝒅𝒅 𝑻𝒉𝒆𝒎 𝑨𝒈𝒂𝒊𝒏."
 
 # 🤖 Add auth
-cannot_authorize_user: "⚠️ This user cannot be authorized.\nThe bot owner, the bot itself, or yourself do not require authorization."
-addauth_user_is_admin: "⚠️ This user is already a chat administrator. No authorization is required."
-addauth_bot_user: "🤖 You can’t add a bot to the auth list — authusers must be human!"
-addauth_add_fail: "❌ Failed to add authorized user: {error}"
-addauth_success_with_count: "✅ Added {user}.\nNow {count}/{limit} authorized users."
-addauth_success: "✅ Successfully added {user} to the authorized users list."
+cannot_authorize_user: "⚠️ 𝑻𝒉𝒊𝒔 𝑼𝒔𝒆𝒓 𝑪𝒂𝒏𝒏𝒐𝒕 𝑩𝒆 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅.\n𝑻𝒉𝒆 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓, 𝑻𝒉𝒆 𝑩𝒐𝒕 𝑰𝒕𝒔𝒆𝒍𝒇, 𝑶𝒓 𝒀𝒐𝒖𝒓𝒔𝒆𝒍𝒇 𝑫𝒐 𝑵𝒐𝒕 𝑹𝒆𝒒𝒖𝒊𝒓𝒆 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒂𝒕𝒊𝒐𝒏."
+addauth_user_is_admin: "⚠️ 𝑻𝒉𝒊𝒔 𝑼𝒔𝒆𝒓 𝑰𝒔 𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑨 𝑪𝒉𝒂𝒕 𝑨𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒐𝒓. 𝑵𝒐 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑰𝒔 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅."
+addauth_bot_user: "🤖 𝒀𝒐𝒖 𝑪𝒂𝒏’𝒕 𝑨𝒅𝒅 𝑨 𝑩𝒐𝒕 𝑻𝒐 𝑻𝒉𝒆 𝑨𝒖𝒕𝒉 𝑳𝒊𝒔𝒕 — 𝑨𝒖𝒕𝒉𝑼𝒔𝒆𝒓𝒔 𝑴𝒖𝒔𝒕 𝑩𝒆 𝑯𝒖𝒎𝒂𝒏!"
+addauth_add_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑨𝒅𝒅 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓: {error}"
+addauth_success_with_count: "✅ 𝑨𝒅𝒅𝒆𝒅 {user}.\n𝑵𝒐𝒘 {count}/{limit} 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔."
+addauth_success: "✅ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝑨𝒅𝒅𝒆𝒅 {user} 𝑻𝒐 𝑻𝒉𝒆 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔 𝑳𝒊𝒔𝒕."
 
 # 🤖 Bot Added to Chat
-bot_added_normal: "🎵 Thanks for adding me! Use /play [song] to start playing music."
+bot_added_normal: "🎵 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑨𝒅𝒅𝒊𝒏𝒈 𝑴𝒆! 𝑼𝒔𝒆 /play [song] 𝑻𝒐 𝑺𝒕𝒂𝒓𝒕 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 𝑴𝒖𝒔𝒊𝒄."
 
 # 🛠️ Bot Added During Maintenance
-bot_added_maintenance: "⚠️ I'm currently under maintenance and will be back soon. Thanks for your patience! ⏰"
-maint_reason_generic: "<i>📝 Reason: {reason}</i>"
+bot_added_maintenance: "⚠️ 𝑰'𝒎 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑼𝒏𝒅𝒆𝒓 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝑨𝒏𝒅 𝑾𝒊𝒍𝒍 𝑩𝒆 𝑩𝒂𝒄𝒌 𝑺𝒐𝒐𝒏. 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝒀𝒐𝒖𝒓 𝑷𝒂𝒕𝒊𝒆𝒏𝒄𝒆! ⏰"
+maint_reason_generic: "<i>📝 𝑹𝒆𝒂𝒔𝒐𝒏: {reason}</i>"
 
 # ⚠️ Bot Demotion
 bot_demotion_goodbye: |
-  <b>⚠️ Permission Lost</b>
+  <b>⚠️ 𝑷𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 𝑳𝒐𝒔𝒕</b>
 
-  I’ve been <b>demoted from admin</b> and can’t perform my tasks anymore.
-  Without proper rights, I’m unable to function here, so I’ll be <i>leaving the chat now</i>.
-
+  𝑰’𝒗𝒆 𝑩𝒆𝒆𝒏 <b>𝑫𝒆𝒎𝒐𝒕𝒆𝒅 𝑭𝒓𝒐𝒎 𝑨𝒅𝒎𝒊𝒏</b> 𝑨𝒏𝒅 𝑪𝒂𝒏’𝒕 𝑷𝒆𝒓𝒇𝒐𝒓𝒎 𝑴𝒚 𝑻𝒂𝒔𝒌𝒔 𝑨𝒏𝒚𝒎𝒐𝒓𝒆.
+  𝑾𝒊𝒕𝒉𝒐𝒖𝒕 𝑷𝒓𝒐𝒑𝒆𝒓 𝑹𝒊𝒈𝒉𝒕𝒔, 𝑰’𝒎 𝑼𝒏𝒂𝒃𝒍𝒆 𝑻𝒐 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑯𝒆𝒓𝒆, 𝑺𝒐 𝑰’𝒍𝒍 𝑩𝒆 <i>𝑳𝒆𝒂𝒗𝒊𝒏𝒈 𝑻𝒉𝒆 𝑪𝒉𝒂𝒕 𝑵𝒐𝒘</i>.
   <b>Goodbye 👋</b>
 
-broadcast_already_running: "⚠️ A broadcast is already running.\n\nPlease wait for it to complete or cancel it first using:\n• <code>/broadcast -cancel</code>\n• Or click the Cancel button on the progress message"
-broadcast_parse_failed: "❌ Failed to parse broadcast command:\n<code>{error}</code>"
-broadcast_no_content: "⚠️ No content provided for broadcast.\n\n<b>Usage:</b> <code>{cmd} [text or reply to message]</code>\n\n<b>Example:</b>\n<code>{cmd} Hello everyone!</code>"
-broadcast_fetch_chats_failed: "❌ Failed to fetch served chats:\n<code>{error}</code>"
-broadcast_fetch_users_failed: "❌ Failed to fetch served users:\n<code>{error}</code>"
-broadcast_no_targets: "⚠️ No targets found for broadcast.\n\nMake sure you haven't excluded all targets with flags."
-broadcast_initializing: "📡 Initializing broadcast...\n\nPlease wait..."
-broadcast_cancelled_header: "🚫 Broadcast Cancelled"
-broadcast_completed_header: "✅ Broadcast Completed"
-broadcast_progress_header: "📡 Broadcasting..."
-broadcast_total_chats: "📊 Total Chats: {done}/{total} ({progress}%)"
-broadcast_total_users: "👥 Total Users: {done}/{total} ({progress}%)"
-broadcast_failed_chats: "❌ Failed Chats: {count}"
-broadcast_failed_users: "❌ Failed Users: {count}"
-broadcast_delay: "⏱ Delay: {delay}s"
-broadcast_elapsed: "⏰ Elapsed: {elapsed}"
-broadcast_eta: "⏳ ETA: {eta}"
-broadcast_success_rate: "✨ Success Rate: {rate}% ({sent}/{total})"
-broadcast_not_running: "ℹ️ No broadcast is currently running."
-broadcast_cancel_success: "🚫 Broadcast cancelled successfully."
-broadcast_cancel_owner_only: "⚠️ Only the owner can cancel broadcasts."
-broadcast_cancel_none_running: "ℹ️ No broadcast is currently running."
-broadcast_cancel_done: "🚫 Broadcast cancelled."
+broadcast_already_running: "⚠️ 𝑨 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑰𝒔 𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑹𝒖𝒏𝒏𝒊𝒏𝒈.\n\n𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕 𝑭𝒐𝒓 𝑰𝒕 𝑻𝒐 𝑪𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝑶𝒓 𝑪𝒂𝒏𝒄𝒆𝒍 𝑰𝒕 𝑭𝒊𝒓𝒔𝒕 𝑼𝒔𝒊𝒏𝒈:\n• <code>/broadcast -cancel</code>\n• 𝑶𝒓 𝑪𝒍𝒊𝒄𝒌 𝑻𝒉𝒆 𝑪𝒂𝒏𝒄𝒆𝒍 𝑩𝒖𝒕𝒕𝒐𝒏 𝑶𝒏 𝑻𝒉𝒆 𝑷𝒓𝒐𝒈𝒓𝒆𝒔𝒔 𝑴𝒆𝒔𝒔𝒂𝒈𝒆."
+broadcast_parse_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑷𝒂𝒓𝒔𝒆 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒐𝒎𝒎𝒂𝒏𝒅:\n<code>{error}</code>"
+broadcast_no_content: "⚠️ 𝑵𝒐 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑷𝒓𝒐𝒗𝒊𝒅𝒆𝒅 𝑭𝒐𝒓 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕.\n\n<b>𝑼𝒔𝒂𝒈𝒆:</b> <code>{cmd} [text or reply to message]</code>\n\n<b>𝑬𝒙𝒂𝒎𝒑𝒍𝒆:</b>\n<code>{cmd} Hello everyone!</code>"
+broadcast_fetch_chats_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑭𝒆𝒕𝒄𝒉 𝑺𝒆𝒓𝒗𝒆𝒅 𝑪𝒉𝒂𝒕𝒔:\n<code>{error}</code>"
+broadcast_fetch_users_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑭𝒆𝒕𝒄𝒉 𝑺𝒆𝒓𝒗𝒆𝒅 𝑼𝒔𝒆𝒓𝒔:\n<code>{error}</code>"
+broadcast_no_targets: "⚠️ 𝑵𝒐 𝑻𝒂𝒓𝒈𝒆𝒕𝒔 𝑭𝒐𝒖𝒏𝒅 𝑭𝒐𝒓 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕.\n\n𝑴𝒂𝒌𝒆 𝑺𝒖𝒓𝒆 𝒀𝒐𝒖 𝑯𝒂𝒗𝒆𝒏'𝒕 𝑬𝒙𝒄𝒍𝒖𝒅𝒆𝒅 𝑨𝒍𝒍 𝑻𝒂𝒓𝒈𝒆𝒕𝒔 𝑾𝒊𝒕𝒉 𝑭𝒍𝒂𝒈𝒔."
+broadcast_initializing: "📡 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒊𝒏𝒈 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕...\n\n𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕..."
+broadcast_cancelled_header: "🚫 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅"
+broadcast_completed_header: "✅ 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅"
+broadcast_progress_header: "📡 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕𝒊𝒏𝒈..."
+broadcast_total_chats: "📊 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: {done}/{total} ({progress}%)"
+broadcast_total_users: "👥 𝑻𝒐𝒕𝒂𝒍 𝑼𝒔𝒆𝒓𝒔: {done}/{total} ({progress}%)"
+broadcast_failed_chats: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑪𝒉𝒂𝒕𝒔: {count}"
+broadcast_failed_users: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑼𝒔𝒆𝒓𝒔: {count}"
+broadcast_delay: "⏱ 𝑫𝒆𝒍𝒂𝒚: {delay}s"
+broadcast_elapsed: "⏰ 𝑬𝒍𝒂𝒑𝒔𝒆𝒅: {elapsed}"
+broadcast_eta: "⏳ 𝑬𝑻𝑨: {eta}"
+broadcast_success_rate: "✨ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔 𝑹𝒂𝒕𝒆: {rate}% ({sent}/{total})"
+broadcast_not_running: "ℹ️ 𝑵𝒐 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑰𝒔 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑹𝒖𝒏𝒏𝒊𝒏𝒈."
+broadcast_cancel_success: "🚫 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚."
+broadcast_cancel_owner_only: "⚠️ 𝑶𝒏𝒍𝒚 𝑻𝒉𝒆 𝑶𝒘𝒏𝒆𝒓 𝑪𝒂𝒏 𝑪𝒂𝒏𝒄𝒆𝒍 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕𝒔."
+broadcast_cancel_none_running: "ℹ️ 𝑵𝒐 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑰𝒔 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑹𝒖𝒏𝒏𝒊𝒏𝒈."
+broadcast_cancel_done: "🚫 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅."
 
 # 🎧 CPlay (Channel Play)
 
-cplay_id_not_set: "⚠️ cplay ID not set.\nUse <code>/cplay --set &lt;chat_id&gt;</code> to set it."
-cplay_usage: "<b>Usage:</b> <code>/cplay --set &lt;channel_id&gt;</code>"
-cplay_invalid_chat_id: "<b>Invalid Chat ID:</b> Please provide a valid integer ID for the channel."
-cplay_resolve_peer_fail: "<b>Failed to resolve peer:</b> Could not fetch channel details. Ensure I can access this channel."
-cplay_invalid_target: "<b>Invalid Target:</b> The provided ID is not a valid channel."
-cplay_channel_not_accessible: "<b>Channel Not Accessible:</b> Could not retrieve channel information. Please ensure I am an administrator in the target channel."
-cplay_save_error: "<b>Error:</b> Failed to save CPlay settings."
-cplay_enabled: "✅ <b>Channel Play enabled.</b> All <code>/c</code> commands will now work in channel <code>{channel_id}</code>."
+cplay_id_not_set: "⚠️ 𝑪𝑷𝒍𝒂𝒚 𝑰𝑫 𝑵𝒐𝒕 𝑺𝒆𝒕.\n𝑼𝒔𝒆 <code>/cplay --set &lt;chat_id&gt;</code> 𝑻𝒐 𝑺𝒆𝒕 𝑰𝒕."
+cplay_usage: "<b>𝑼𝒔𝒂𝒈𝒆:</b> <code>/cplay --set &lt;channel_id&gt;</code>"
+cplay_invalid_chat_id: "<b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑪𝒉𝒂𝒕 𝑰𝑫:</b> 𝑷𝒍𝒆𝒂𝒔𝒆 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑨 𝑽𝒂𝒍𝒊𝒅 𝑰𝒏𝒕𝒆𝒈𝒆𝒓 𝑰𝑫 𝑭𝒐𝒓 𝑻𝒉𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_resolve_peer_fail: "<b>𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑹𝒆𝒔𝒐𝒍𝒗𝒆 𝑷𝒆𝒆𝒓:</b> 𝑪𝒐𝒖𝒍𝒅 𝑵𝒐𝒕 𝑭𝒆𝒕𝒄𝒉 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑫𝒆𝒕𝒂𝒊𝒍𝒔. 𝑬𝒏𝒔𝒖𝒓𝒆 𝑰 𝑪𝒂𝒏 𝑨𝒄𝒄𝒆𝒔𝒔 𝑻𝒉𝒊𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_invalid_target: "<b>𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑻𝒂𝒓𝒈𝒆𝒕:</b> 𝑻𝒉𝒆 𝑷𝒓𝒐𝒗𝒊𝒅𝒆𝒅 𝑰𝑫 𝑰𝒔 𝑵𝒐𝒕 𝑨 𝑽𝒂𝒍𝒊𝒅 𝑪𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_channel_not_accessible: "<b>𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑵𝒐𝒕 𝑨𝒄𝒄𝒆𝒔𝒔𝒊𝒃𝒍𝒆:</b> 𝑪𝒐𝒖𝒍𝒅 𝑵𝒐𝒕 𝑹𝒆𝒕𝒓𝒊𝒆𝒗𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏. 𝑷𝒍𝒆𝒂𝒔𝒆 𝑬𝒏𝒔𝒖𝒓𝒆 𝑰 𝑨𝒎 𝑨𝒏 𝑨𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒐𝒓 𝑰𝒏 𝑻𝒉𝒆 𝑻𝒂𝒓𝒈𝒆𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍."
+cplay_save_error: "<b>𝑬𝒓𝒓𝒐𝒓:</b> 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑺𝒂𝒗𝒆 𝑪𝑷𝒍𝒂𝒚 𝑺𝒆𝒕𝒕𝒊𝒏𝒈𝒔."
+cplay_enabled: "✅ <b>𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑷𝒍𝒂𝒚 𝑬𝒏𝒂𝒃𝒍𝒆𝒅.</b> 𝑨𝒍𝒍 <code>/c</code> 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝑾𝒊𝒍𝒍 𝑵𝒐𝒘 𝑾𝒐𝒓𝒌 𝑰𝒏 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 <code>{channel_id}</code>."
 
 # Callback handler messages
-invalid_request: "⚠️ Invalid request."
-unknown_action: "⚠️ Unknown action."
-download_cancelled: "✅ Download cancelled."
-no_download_to_cancel: "ℹ️ No download to cancel."
+
+invalid_request: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑹𝒆𝒒𝒖𝒆𝒔𝒕."
+unknown_action: "⚠️ 𝑼𝒏𝒌𝒏𝒐𝒘𝒏 𝑨𝒄𝒕𝒊𝒐𝒏."
+download_cancelled: "✅ 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒆𝒅."
+no_download_to_cancel: "ℹ️ 𝑵𝒐 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑻𝒐 𝑪𝒂𝒏𝒄𝒆𝒍."
 
 # Pause callback
 cb_pause_success: "⏸️ Track paused at {position}"
@@ -153,40 +152,40 @@ cb_mute_message: |
   <b>Track:</b> <a href="{url}">{title}</a>
   <b>Muted by:</b> {user}
 
-cb_unmute_success: "🔊 Unmuted."
+cb_unmute_success: "🔊 𝑼𝒏𝒎𝒖𝒕𝒆𝒅."
 
-cb_seek_success: "⏩ Sought forward {seconds} seconds"
-cb_seek_near_end: "⚠️ Cannot seek forward {seconds} seconds — about to reach end."
-cb_seek_edited: "⏩ Sought {seconds} seconds — by {user}"
+cb_seek_success: "⏩ 𝑺𝒐𝒖𝒈𝒉𝒕 𝑭𝒐𝒓𝒘𝒂𝒓𝒅 {seconds} 𝑺𝒆𝒄𝒐𝒏𝒅𝒔."
+cb_seek_near_end: "⚠️ 𝑪𝒂𝒏𝒏𝒐𝒕 𝑺𝒆𝒆𝒌 𝑭𝒐𝒓𝒘𝒂𝒓𝒅 {seconds} 𝑺𝒆𝒄𝒐𝒏𝒅𝒔 — 𝑨𝒃𝒐𝒖𝒕 𝑻𝒐 𝑹𝒆𝒂𝒄𝒉 𝑻𝒉𝒆 𝑬𝒏𝒅."
+cb_seek_edited: "⏩ 𝑺𝒐𝒖𝒈𝒉𝒕 {seconds} 𝑺𝒆𝒄𝒐𝒏𝒅𝒔 — 𝑩𝒚 {user}."
 
-cb_seekback_success: "⏪ Sought back {seconds} seconds"
-cb_seekback_edited: "⏪ Sought back {seconds} seconds — by {user}"
+cb_seekback_success: "⏪ 𝑺𝒐𝒖𝒈𝒉𝒕 𝑩𝒂𝒄𝒌 {seconds} 𝑺𝒆𝒄𝒐𝒏𝒅𝒔."
+cb_seekback_edited: "⏪ 𝑺𝒐𝒖𝒈𝒉𝒕 𝑩𝒂𝒄𝒌 {seconds} 𝑺𝒆𝒄𝒐𝒏𝒅𝒔 — 𝑩𝒚 {user}."
 
 # 🗑️ Delete auth
-del_auth_not_authorized: "⚠️ That user isn’t authorized — nothing to remove."
-del_auth_remove_fail: "❌ Failed to remove authorized user: <code>{error}</code>"
-del_auth_success: "✅ Successfully removed {user} from the authorized users list."
+del_auth_not_authorized: "⚠️ 𝑻𝒉𝒂𝒕 𝑼𝒔𝒆𝒓 𝑰𝒔𝒏’𝒕 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 — 𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝑻𝒐 𝑹𝒆𝒎𝒐𝒗𝒆."
+del_auth_remove_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑹𝒆𝒎𝒐𝒗𝒆 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓: <code>{error}</code>"
+del_auth_success: "✅ 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝑹𝒆𝒎𝒐𝒗𝒆𝒅 {user} 𝑭𝒓𝒐𝒎 𝑻𝒉𝒆 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔 𝑳𝒊𝒔𝒕."
 
 # 📜 Auth list
-authlist_fetch_fail: "❌ Failed to get authorized users list: <code>{error}</code>"
-authlist_empty: "ℹ️ There are no authorized users in this chat."
-authlist_fetching: "⏳ Fetching authorized users list..."
-authlist_header: "<b>Authorized Users:</b>"
-authlist_user_fail: "{index}. <code>{user_id}</code> (Could not fetch user info)"
+authlist_fetch_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑮𝒆𝒕 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔 𝑳𝒊𝒔𝒕: <code>{error}</code>"
+authlist_empty: "ℹ️ 𝑻𝒉𝒆𝒓𝒆 𝑨𝒓𝒆 𝑵𝒐 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔 𝑰𝒏 𝑻𝒉𝒊𝒔 𝑪𝒉𝒂𝒕."
+authlist_fetching: "⏳ 𝑭𝒆𝒕𝒄𝒉𝒊𝒏𝒈 𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔 𝑳𝒊𝒔𝒕..."
+authlist_header: "<b>𝑨𝒖𝒕𝒉𝒐𝒓𝒊𝒛𝒆𝒅 𝑼𝒔𝒆𝒓𝒔:</b>"
+authlist_user_fail: "{index}. <code>{user_id}</code> (𝑪𝒐𝒖𝒍𝒅 𝑵𝒐𝒕 𝑭𝒆𝒕𝒄𝒉 𝑼𝒔𝒆𝒓 𝑰𝒏𝒇𝒐)"
 authlist_user_entry: "{index}. {user} (<code>{user_id}</code>)"
-authlist_total: "<b>Total:</b> {count} users"
+authlist_total: "<b>𝑻𝒐𝒕𝒂𝒍:</b> {count} 𝑼𝒔𝒆𝒓𝒔"
 
-autoleave_fetch_fail: "⚠️ <b>Failed to fetch AutoLeave state.</b>"
-autoleave_status: "🏃‍♂️ <b>AutoLeave Control</b>\n\nWhen enabled, the assistant will automatically leave the chat.\nUsage: {cmd} [enable|disable]\nCurrent state: {action}"
-autoleave_already: "⚠️ AutoLeave is already {action}"
-autoleave_update_fail: "⚠️ <b>Failed to update AutoLeave state.</b>"
-autoleave_updated: "🏃‍♂️ AutoLeave has been {action}"
+autoleave_fetch_fail: "⚠️ <b>𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑭𝒆𝒕𝒄𝒉 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝑺𝒕𝒂𝒕𝒆.</b>"
+autoleave_status: "🏃‍♂️ <b>𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝑪𝒐𝒏𝒕𝒓𝒐𝒍</b>\n\n𝑾𝒉𝒆𝒏 𝑬𝒏𝒂𝒃𝒍𝒆𝒅, 𝑻𝒉𝒆 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑾𝒊𝒍𝒍 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝑳𝒆𝒂𝒗𝒆 𝑻𝒉𝒆 𝑪𝒉𝒂𝒕.\n𝑼𝒔𝒂𝒈𝒆: {cmd} [enable|disable]\n𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑺𝒕𝒂𝒕𝒆: {action}"
+autoleave_already: "⚠️ 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝑰𝒔 𝑨𝒍𝒓𝒆𝒂𝒅𝒚 {action}."
+autoleave_update_fail: "⚠️ <b>𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑼𝒑𝒅𝒂𝒕𝒆 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝑺𝒕𝒂𝒕𝒆.</b>"
+autoleave_updated: "🏃‍♂️ 𝑨𝒖𝒕𝒐𝑳𝒆𝒂𝒗𝒆 𝑯𝒂𝒔 𝑩𝒆𝒆𝒏 {action}."
 
-enabled: "Enabled"
-disabled: "Disabled"
+enabled: "𝑬𝒏𝒂𝒃𝒍𝒆𝒅"
+disabled: "𝑫𝒊𝒔𝒂𝒃𝒍𝒆𝒅"
 
-bug_usasge: "⚠️ Please describe the bug. Usage: {cmd} <problem> or reply to a message."
-bug_thanks: "✅ Thank you for your bug report! It has been sent to the developers."
+bug_usasge: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝑫𝒆𝒔𝒄𝒓𝒊𝒃𝒆 𝑻𝒉𝒆 𝑩𝒖𝒈. 𝑼𝒔𝒂𝒈𝒆: {cmd} <problem> 𝑶𝒓 𝑹𝒆𝒑𝒍𝒚 𝑻𝒐 𝑨 𝑴𝒆𝒔𝒔𝒂𝒈𝒆."
+bug_thanks: "✅ 𝑻𝒉𝒂𝒏𝒌 𝒀𝒐𝒖 𝑭𝒐𝒓 𝒀𝒐𝒖𝒓 𝑩𝒖𝒈 𝑹𝒆𝒑𝒐𝒓𝒕! 𝑰𝒕 𝑯𝒂𝒔 𝑩𝒆𝒆𝒏 𝑺𝒆𝒏𝒕 𝑻𝒐 𝑻𝒉𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓𝒔."
 
 bug_report_format: |
   <b>🐞 New Bug Report</b>
@@ -283,26 +282,26 @@ err_download_internal: |
   ⚠️ <b>Download failed</b> due to an unexpected internal error.
   Please try again later.
   
-flood_seconds: "⏳ Slow down! Try again in {duration} seconds."
-flood_minutes: "⏳ Please wait {duration} minutes before using this command again."
+flood_seconds: "⏳ 𝑺𝒍𝒐𝒘 𝑫𝒐𝒘𝒏! 𝑻𝒓𝒚 𝑨𝒈𝒂𝒊𝒏 𝑰𝒏 {duration} 𝑺𝒆𝒄𝒐𝒏𝒅𝒔."
+flood_minutes: "⏳ 𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕 {duration} 𝑴𝒊𝒏𝒖𝒕𝒆𝒔 𝑩𝒆𝒇𝒐𝒓𝒆 𝑼𝒔𝒊𝒏𝒈 𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝑨𝒈𝒂𝒊𝒏."
 
-help_private_only: "🤖 Hi! For bot help and commands, please DM me directly — I'm more responsive in private chats!"
-help_main: "📚 <b>Help Menu</b>\n\nSelect a category below to explore detailed commands and their usage for managing, controlling, and customizing the bot."
+help_private_only: "🤖 𝑯𝒊! 𝑭𝒐𝒓 𝑩𝒐𝒕 𝑯𝒆𝒍𝒑 𝑨𝒏𝒅 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔, 𝑷𝒍𝒆𝒂𝒔𝒆 𝑫𝑴 𝑴𝒆 𝑫𝒊𝒓𝒆𝒄𝒕𝒍𝒚 — 𝑰'𝒎 𝑴𝒐𝒓𝒆 𝑹𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆 𝑰𝒏 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑪𝒉𝒂𝒕𝒔!"
+help_main: "📚 <b>𝑯𝒆𝒍𝒑 𝑴𝒆𝒏𝒖</b>\n\n𝑺𝒆𝒍𝒆𝒄𝒕 𝑨 𝑪𝒂𝒕𝒆𝒈𝒐𝒓𝒚 𝑩𝒆𝒍𝒐𝒘 𝑻𝒐 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝑫𝒆𝒕𝒂𝒊𝒍𝒆𝒅 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝑨𝒏𝒅 𝑻𝒉𝒆𝒊𝒓 𝑼𝒔𝒂𝒈𝒆 𝑭𝒐𝒓 𝑴𝒂𝒏𝒂𝒈𝒊𝒏𝒈, 𝑪𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒊𝒏𝒈, 𝑨𝒏𝒅 𝑪𝒖𝒔𝒕𝒐𝒎𝒊𝒛𝒊𝒏𝒈 𝑻𝒉𝒆 𝑩𝒐𝒕."
 
-jump_no_active: "⚠️ No active track to jump within."
-jump_usage: "⚠️ Please provide seconds.\nExample: <code>{cmd} 120</code>"
-jump_invalid_position: "⚠️ Invalid position.\nExample: <code>{cmd} 120</code>"
-jump_too_close_end: "⚠️ Cannot jump to <b>{position}</b> — that’s too close to the end of the track."
-jump_failed: "❌ Failed to jump to <b>{position}</b>.\nError: <code>{error}</code>"
-jump_success: "⏩ Jumped to <u>{position}</u> of <u>{duration}</u>."
+jump_no_active: "⚠️ 𝑵𝒐 𝑨𝒄𝒕𝒊𝒗𝒆 𝑻𝒓𝒂𝒄𝒌 𝑻𝒐 𝑱𝒖𝒎𝒑 𝑾𝒊𝒕𝒉𝒊𝒏."
+jump_usage: "⚠️ 𝑷𝒍𝒆𝒂𝒔𝒆 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑺𝒆𝒄𝒐𝒏𝒅𝒔.\n𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{cmd} 120</code>"
+jump_invalid_position: "⚠️ 𝑰𝒏𝒗𝒂𝒍𝒊𝒅 𝑷𝒐𝒔𝒊𝒕𝒊𝒐𝒏.\n𝑬𝒙𝒂𝒎𝒑𝒍𝒆: <code>{cmd} 120</code>"
+jump_too_close_end: "⚠️ 𝑪𝒂𝒏𝒏𝒐𝒕 𝑱𝒖𝒎𝒑 𝑻𝒐 <b>{position}</b> — 𝑻𝒉𝒂𝒕’𝒔 𝑻𝒐𝒐 𝑪𝒍𝒐𝒔𝒆 𝑻𝒐 𝑻𝒉𝒆 𝑬𝒏𝒅 𝑶𝒇 𝑻𝒉𝒆 𝑻𝒓𝒂𝒄𝒌."
+jump_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑱𝒖𝒎𝒑 𝑻𝒐 <b>{position}</b>.\n𝑬𝒓𝒓𝒐𝒓: <code>{error}</code>"
+jump_success: "⏩ 𝑱𝒖𝒎𝒑𝒆𝒅 𝑻𝒐 <u>{position}</u> 𝑶𝒇 <u>{duration}</u>."
 
-lang_same: "ℹ️ You’re already using this language."
-lang_select: "🌐 Select your preferred language:"
-lang_fail: "❌ Failed to update language. Please try again later."
-lang_success: "✅ Language successfully updated to {lang_name}."
+lang_same: "ℹ️ 𝒀𝒐𝒖’𝒓𝒆 𝑨𝒍𝒓𝒆𝒂𝒅𝒚 𝑼𝒔𝒊𝒏𝒈 𝑻𝒉𝒊𝒔 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆."
+lang_select: "🌐 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑷𝒓𝒆𝒇𝒆𝒓𝒓𝒆𝒅 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆:"
+lang_fail: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝑻𝒐 𝑼𝒑𝒅𝒂𝒕𝒆 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆. 𝑷𝒍𝒆𝒂𝒔𝒆 𝑻𝒓𝒚 𝑨𝒈𝒂𝒊𝒏 𝑳𝒂𝒕𝒆𝒓."
+lang_success: "✅ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝑼𝒑𝒅𝒂𝒕𝒆𝒅 𝑻𝒐 {lang_name}."
 
-logger_playback_started: "Playback Started"
-logger_playback_queued: "Playback Queued"
+logger_playback_started: "🎵 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑺𝒕𝒂𝒓𝒕𝒆𝒅"
+logger_playback_queued: "📜 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑸𝒖𝒆𝒖𝒆𝒅"
 
 logger_bot_added: |
   🤖 <b>Bot Added to New Group</b>
