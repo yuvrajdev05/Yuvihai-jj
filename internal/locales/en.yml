@@ -1,26 +1,26 @@
 name: "🇺🇸 English"
 
 # buttons
-CONFIRM_RESUME_BTN: "▶️ Resume"
-CONFIRM_UNMUTE_BTN: "🔊 Unmute"
-CONFIRM_STOP_BTN: "⏹️ Stop"
-ADD_ME_BTN: "Add Me to Your group"
-BROADCAST_CANCEL_BTN: "🚫 Cancel Broadcast"
-CLOSE_BTN: "Close"
-DOWNLOAD_CANCEL_BTN: "🚦 Cancel Downloading"
-GC_HELP_BTN: "📒 Commands"
+CONFIRM_RESUME_BTN: "▶️ 𝑹𝒆𝒔𝒖𝒎𝒆"
+CONFIRM_UNMUTE_BTN: "🔊 𝑼𝒏𝒎𝒖𝒕𝒆"
+CONFIRM_STOP_BTN: "⏹️ 𝑺𝒕𝒐𝒑"
+ADD_ME_BTN: "➕𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑"
+BROADCAST_CANCEL_BTN: "🚫 𝑪𝒂𝒏𝒄𝒆𝒍 𝑩𝒓𝒐𝒂𝒅𝒄𝒂𝒔𝒕"
+CLOSE_BTN: "𝑪𝒍𝒐𝒔𝒆"
+DOWNLOAD_CANCEL_BTN: "🚦 𝑪𝒂𝒏𝒄𝒆𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒊𝒏𝒈"
+GC_HELP_BTN: "📒 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔"
 
-START_HELP_BTN: "Help & Commands"
-SOURCE_BTN: "Source"
-UPDATES_BTN: "Updates"
-SUPPORT_BTN: "Support"
+START_HELP_BTN: "𝑯𝒆𝒍𝒑 & 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔"
+SOURCE_BTN: "𝑶𝒘𝒏𝒆𝒓"
+UPDATES_BTN: "𝑼𝒑𝒅𝒂𝒕𝒆𝒔"
+SUPPORT_BTN: "𝑺𝒖𝒑𝒑𝒐𝒓𝒕"
 
-HELP_ADMINS_BTN: "🛠 Admins"
-HELP_PUBLIC_BTN: "🌍 Public"
-HELP_OWNER_BTN: "👑 Owner"
-HELP_SUDOERS_BTN: "⚡ Sudoers"
+HELP_ADMINS_BTN: "🛠 𝑨𝒅𝒎𝒊𝒏𝒔"
+HELP_PUBLIC_BTN: "🌍 𝑷𝒖𝒃𝒍𝒊𝒄"
+HELP_OWNER_BTN: "👑 𝑶𝒘𝒏𝒆𝒓"
+HELP_SUDOERS_BTN: "⚡ 𝑺𝒖𝒅𝒐𝒆𝒓𝒔"
 
-BACK_BTN: "⬅️ Back"
+BACK_BTN: "🔙 𝑩𝒂𝒄𝒌"
 
 # basically this string used in /command [bool]
 invalid_bool: "⚠️ <b>Invalid value.</b>\nUse 'enable' or 'disable'."
@@ -136,11 +136,11 @@ cb_replay_success: "🔁 Track replayed."
 cb_replay_edited: "🔁 Track replayed by {user}."
 
 # Skip callback
-cb_skip_queue_empty: "⏹️ Playback stopped — queue empty."
-cb_skip_download_failed: "❌ Failed to download next track."
-cb_skip_play_failed: "❌ Failed to play next track."
-cb_skip_success: "⏭️ Track skipped."
-cb_skip_edited: "⏭️ Skipped by {user}"
+cb_skip_queue_empty: "⏹️ 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑺𝒕𝒐𝒑𝒑𝒆𝒅 — 𝑸𝒖𝒆𝒖𝒆 𝑬𝒎𝒑𝒕𝒚."
+cb_skip_download_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑵𝒆𝒙𝒕 𝑻𝒓𝒂𝒄𝒌."
+cb_skip_play_failed: "❌ 𝑭𝒂𝒊𝒍𝒆𝒅 𝒕𝒐 𝑷𝒍𝒂𝒚 𝑵𝒆𝒙𝒕 𝑻𝒓𝒂𝒄𝒌."
+cb_skip_success: "⏭️ 𝑻𝒓𝒂𝒄𝒌 𝑺𝒌𝒊𝒑𝒑𝒆𝒅."
+cb_skip_edited: "⏭️ 𝑺𝒌𝒊𝒑𝒑𝒆𝒅 𝒃𝒚 {user}"
 
 # Stop callback
 cb_stop_success: "⏹️ Playback stopped."
@@ -335,11 +335,11 @@ logger_bot_started: |
   <b>Username:</b> {user_username}
   <b>ID:</b> {user_id}
   
-logger_track: "Track:"
-logger_source: "Source:"
-logger_group: "Group:"
-logger_requested_by: "Requested by:"
-logger_timestamp: "Timestamp:"
+logger_track: "🎵 𝑻𝒓𝒂𝒄𝒌:"
+logger_source: "🔗 𝑺𝒐𝒖𝒓𝒄𝒆:"
+logger_group: "👥 𝑮𝒓𝒐𝒖𝒑:"
+logger_requested_by: "🙋‍♂️ 𝑹𝒆𝒒𝒖𝒆𝒔𝒕𝒆𝒅 𝑩𝒚:"
+logger_timestamp: "🕒 𝑻𝒊𝒎𝒆𝒔𝒕𝒂𝒎𝒑:"
 
 loop_usage: "🔁 <b>Loop Control</b>\n\nUsage: {cmd} [count]\n• 0 - Disable loop\n• 1-10 - Loop count\n\n<i>{count_line}</i>"
 loop_invalid: "⚠️ <b>Invalid loop count.</b>\nUse 0 to disable or 1-10 to set loop count."
