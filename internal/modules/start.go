@@ -49,26 +49,26 @@ func startHandler(m *tg.NewMessage) error {
 
 		default:		             
 
-         msg1, _ := m.Respond("🌟 Welcome To Lovelly Music 🌟", nil)
+         msg1, _ := m.Respond("🌟 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑳𝒐𝒗𝒆𝒍𝒍𝒚 𝑴𝒖𝒔𝒊𝒄 🌟", nil)
          time.Sleep(1 * time.Second)
          if msg1 != nil {
 	     msg1.Delete()
          }
 
-         msg2, _ := m.Respond("🎵 Best Music Experience 🎵", nil)
+         msg2, _ := m.Respond("𓆩🎵𓆪 𝑩𝒆𝒔𝒕 𝑴𝒖𝒔𝒊𝒄 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𓆩🎵𓆪", nil)
          time.Sleep(1 * time.Second)
          if msg2 != nil {
 	     msg2.Delete()
          }
 
-         msg3, _ := m.Respond("💖 High Quality Streaming 💖", nil)
+         msg3, _ := m.Respond("💖𓆩🎶𓆪 𝑯𝒊𝒈𝒉 𝑸𝒖𝒂𝒍𝒊𝒕𝒚 𝑺𝒕𝒓𝒆𝒂𝒎𝒊𝒏𝒈 𓆩🎶𓆪💖", nil)
          time.Sleep(1 * time.Second)
          if msg3 != nil {
 	     msg3.Delete()
          }
 
          msg4, _ := m.Respond(
-	     `✨ Powered By <a href="https://t.me/x_yuvii">Yuvi</a> ✨`,
+	     `✨ ✦ 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 ✦ <a href="https://t.me/x_yuvii">𖹭 𝒀𝒖𝒗𝒊𝒊 𖹭</a> ✨`,
 	     &tg.SendOptions{
 		 ParseMode: "HTML",
 	     },
