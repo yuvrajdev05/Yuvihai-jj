@@ -888,9 +888,8 @@ spt_result: |
   Download: <code>{dl_mbps} Mbps</code>
   Upload: <code>{ul_mbps} Mbps</code>
 
-start_private: "Hello {user}, My name is {bot}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, JioSaavn, Soundcloud etc.\n\nFeel free to add me to your groups."
-
-start_group: "<b>💫 I’m here!</b> Try a command… if you think you can handle me 😉"
+start_private: "𝑯𝒆𝒍𝒍𝒐 {user}, 𝑴𝒚 𝑵𝒂𝒎𝒆 𝑰𝒔 {bot}.\n\n𝑰'𝒎 𝒂 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒆𝒂𝒎𝒊𝒏𝒈 𝑩𝒐𝒕 𝒘𝒊𝒕𝒉 𝑺𝒐𝒎𝒆 𝑼𝒔𝒆𝒇𝒖𝒍 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔. 𝑺𝒖𝒑𝒑𝒐𝒓𝒕𝒊𝒏𝒈 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎𝒔 𝑳𝒊𝒌𝒆 𝒀𝒐𝒖𝑻𝒖𝒃𝒆, 𝑺𝒑𝒐𝒕𝒊𝒇𝒚, 𝑱𝒊𝒐𝑺𝒂𝒂𝒗𝒏, 𝑺𝒐𝒖𝒏𝒅𝑪𝒍𝒐𝒖𝒅, 𝒆𝒕𝒄.\n\n𝑭𝒆𝒆𝒍 𝑭𝒓𝒆𝒆 𝒕𝒐 𝑨𝒅𝒅 𝑴𝒆 𝒕𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑𝒔."
+start_group: "<b>💫 I’m here!</b> ✨ 𝑻𝒓𝒚 𝑨 𝑪𝒐𝒎𝒎𝒂𝒏𝒅… 𝑰𝒇 𝒀𝒐𝒖 𝑻𝒉𝒊𝒏𝒌 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑯𝒂𝒏𝒅𝒍𝒆 𝑴𝒆 😉"
 
 stream_channelid_fail: "⚠️ Failed to get your connected channel’s ID."
 stream_queue_finished: "No more songs in the queue."
@@ -905,8 +904,8 @@ stream_now_playing: |
   <b>Requested by:</b> {by}
 
 
-sudo_join_owner: "👑 {user} — owner of {bot} — just entered the chat."
-sudo_join_sudo: "🛡️ {user}, a sudo user of {bot}, just joined the chat."
+sudo_join_owner: "👑 {user} — 𝑻𝒉𝒆 𝑶𝒘𝒏𝒆𝒓 𝑶𝒇 {bot} — 𝑱𝒖𝒔𝒕 𝑱𝒐𝒊𝒏𝒆𝒅 𝑻𝒉𝒆 𝑪𝒉𝒂𝒕."
+sudo_join_sudo: "🛡️ {user} — 𝑨 𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓 𝑶𝒇 {bot} — 𝑱𝒖𝒔𝒕 𝑱𝒐𝒊𝒏𝒆𝒅 𝑻𝒉𝒆 𝑪𝒉𝒂𝒕."
 
 supergroup_needed: |
   This chat (ID: <code>{chat_id}</code>) is not a supergroup yet.
@@ -928,70 +927,70 @@ unmute_success: |
 
 
 help_owner: |
-  👑 <b>Owner Commands</b>
+  👑 <b>𝑶𝒘𝒏𝒆𝒓 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔</b>
 
-  Exclusive tools for managing sudoers, executing system code, and performing bot administration securely.
+  𝑬𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒆 𝑻𝒐𝒐𝒍𝒔 𝑭𝒐𝒓 𝑴𝒂𝒏𝒂𝒈𝒊𝒏𝒈 𝑺𝒖𝒅𝒐𝒆𝒓𝒔, 𝑬𝒙𝒆𝒄𝒖𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎 𝑪𝒐𝒅𝒆, 𝑨𝒏𝒅 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒊𝒏𝒈 𝑩𝒐𝒕 𝑨𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝑺𝒆𝒄𝒖𝒓𝒆𝒍𝒚.
 
-  <b>Commands:</b>
-  <b>/addsudo</b> - Add a new user to bot's sudolist
-  <b>/delsudo</b> - Remove a user from bot's sudolist
-  <b>/eval</b> - Execute Go code snippets
-  <b>/maintenance</b> — Manage the bot’s maintenance mode
-  <b>/restart</b> — Restart the bot
-  <b>/sh</b> - Run shell commands
+  <b>𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔:</b>
+  <b>/addsudo</b> — 𝑨𝒅𝒅 𝑨 𝑵𝒆𝒘 𝑼𝒔𝒆𝒓 𝑻𝒐 𝑻𝒉𝒆 𝑩𝒐𝒕'𝒔 𝑺𝒖𝒅𝒐 𝑳𝒊𝒔𝒕
+  <b>/delsudo</b> — 𝑹𝒆𝒎𝒐𝒗𝒆 𝑨 𝑼𝒔𝒆𝒓 𝑭𝒓𝒐𝒎 𝑻𝒉𝒆 𝑩𝒐𝒕'𝒔 𝑺𝒖𝒅𝒐 𝑳𝒊𝒔𝒕
+  <b>/eval</b> — 𝑬𝒙𝒆𝒄𝒖𝒕𝒆 𝑮𝒐 𝑪𝒐𝒅𝒆 𝑺𝒏𝒊𝒑𝒑𝒆𝒕𝒔
+  <b>/maintenance</b> — 𝑴𝒂𝒏𝒂𝒈𝒆 𝑻𝒉𝒆 𝑩𝒐𝒕'𝒔 𝑴𝒂𝒊𝒏𝒕𝒆𝒏𝒂𝒏𝒄𝒆 𝑴𝒐𝒅𝒆
+  <b>/restart</b> — 𝑹𝒆𝒔𝒕𝒂𝒓𝒕 𝑻𝒉𝒆 𝑩𝒐𝒕
+  <b>/sh</b> — 𝑹𝒖𝒏 𝑺𝒉𝒆𝒍𝒍 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔
 
 help_sudo: |
-  ⚡ <b>Sudoer Commands</b>
+  ⚡ <b>𝑺𝒖𝒅𝒐𝒆𝒓 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔</b>
 
-  Advanced tools for managing bot behavior, monitoring performance, and controlling logging and automation.
+  𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑻𝒐𝒐𝒍𝒔 𝑭𝒐𝒓 𝑴𝒂𝒏𝒂𝒈𝒊𝒏𝒈 𝑩𝒐𝒕 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒓, 𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆, 𝑨𝒏𝒅 𝑪𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒊𝒏𝒈 𝑳𝒐𝒈𝒈𝒊𝒏𝒈 𝑨𝒏𝒅 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏.
 
-  <b>Commands:</b>
-  <b>/active</b> - Shows total active chats
-  <b>/autoleave</b> - Toggle automatic chat leaving
-  <b>/logger</b> - Enable or disable logger
-  <b>/stats</b> - Display the bot & system stats
-  <b>/logs</b> - Get the system logs 
+  <b>𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔:</b>
+  <b>/active</b> — 𝑺𝒉𝒐𝒘𝒔 𝑻𝒐𝒕𝒂𝒍 𝑨𝒄𝒕𝒊𝒗𝒆 𝑪𝒉𝒂𝒕𝒔
+  <b>/autoleave</b> — 𝑻𝒐𝒈𝒈𝒍𝒆 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 𝑪𝒉𝒂𝒕 𝑳𝒆𝒂𝒗𝒊𝒏𝒈
+  <b>/logger</b> — 𝑬𝒏𝒂𝒃𝒍𝒆 𝑶𝒓 𝑫𝒊𝒔𝒂𝒃𝒍𝒆 𝑳𝒐𝒈𝒈𝒆𝒓
+  <b>/stats</b> — 𝑫𝒊𝒔𝒑𝒍𝒂𝒚 𝑻𝒉𝒆 𝑩𝒐𝒕 & 𝑺𝒚𝒔𝒕𝒆𝒎 𝑺𝒕𝒂𝒕𝒔
+  <b>/logs</b> — 𝑮𝒆𝒕 𝑻𝒉𝒆 𝑺𝒚𝒔𝒕𝒆𝒎 𝑳𝒐𝒈𝒔
 
 help_admin: |
-  🛠 <b>Admin Commands</b>
+  🛠 <b>𝑨𝒅𝒎𝒊𝒏 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔</b>
 
-  Music and playback control tools for admins to handle playback easily.
+  𝑴𝒖𝒔𝒊𝒄 𝑨𝒏𝒅 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑻𝒐𝒐𝒍𝒔 𝑭𝒐𝒓 𝑨𝒅𝒎𝒊𝒏𝒔 𝑻𝒐 𝑯𝒂𝒏𝒅𝒍𝒆 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑬𝒂𝒔𝒊𝒍𝒚.
 
-  <b>Commands:</b>
-  <b>/playmode</b> - Control who can use /play
-  <b>/cmddelete</b> - Toggle automatic deletion of bot commands
-  <b>/speed</b> - Change playback speed
-  <b>/skip</b> - Skip the current song
-  <b>/pause</b> - Pause the current playback
-  <b>/resume</b> - Resume paused playback
-  <b>/replay</b> - Replay the current song
-  <b>/mute</b> - Mute playback
-  <b>/unmute</b> - Unmute playback
-  <b>/seek</b> - Seek forward by a few seconds
-  <b>/seekback</b> - Seek backward by a few seconds
-  <b>/jump</b> - Jump to a given time in track
-  <b>/move</b> - Move a queued track to another position
-  <b>/clear</b> - Clear all songs from queue
-  <b>/remove</b> - Remove a specific track from queue
-  <b>/shuffle</b> - Shuffle all queued tracks
-  <b>/loop</b> - Enable or disable looping
-  <b>/stop</b> - Stop playback and leave VC
-  <b>/nothumb</b> - Enable or disable artwork/thumbnail in playback messages
+  <b>𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔:</b>
+  <b>/playmode</b> — 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑾𝒉𝒐 𝑪𝒂𝒏 𝑼𝒔𝒆 /play
+  <b>/cmddelete</b> — 𝑻𝒐𝒈𝒈𝒍𝒆 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 𝑫𝒆𝒍𝒆𝒕𝒊𝒐𝒏 𝑶𝒇 𝑩𝒐𝒕 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔
+  <b>/speed</b> — 𝑪𝒉𝒂𝒏𝒈𝒆 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑺𝒑𝒆𝒆𝒅
+  <b>/skip</b> — 𝑺𝒌𝒊𝒑 𝑻𝒉𝒆 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑺𝒐𝒏𝒈
+  <b>/pause</b> — 𝑷𝒂𝒖𝒔𝒆 𝑻𝒉𝒆 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌
+  <b>/resume</b> — 𝑹𝒆𝒔𝒖𝒎𝒆 𝑷𝒂𝒖𝒔𝒆𝒅 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌
+  <b>/replay</b> — 𝑹𝒆𝒑𝒍𝒂𝒚 𝑻𝒉𝒆 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑺𝒐𝒏𝒈
+  <b>/mute</b> — 𝑴𝒖𝒕𝒆 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌
+  <b>/unmute</b> — 𝑼𝒏𝒎𝒖𝒕𝒆 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌
+  <b>/seek</b> — 𝑺𝒆𝒆𝒌 𝑭𝒐𝒓𝒘𝒂𝒓𝒅 𝑩𝒚 𝑨 𝑭𝒆𝒘 𝑺𝒆𝒄𝒐𝒏𝒅𝒔
+  <b>/seekback</b> — 𝑺𝒆𝒆𝒌 𝑩𝒂𝒄𝒌𝒘𝒂𝒓𝒅 𝑩𝒚 𝑨 𝑭𝒆𝒘 𝑺𝒆𝒄𝒐𝒏𝒅𝒔
+  <b>/jump</b> — 𝑱𝒖𝒎𝒑 𝑻𝒐 𝑨 𝑮𝒊𝒗𝒆𝒏 𝑻𝒊𝒎𝒆 𝑰𝒏 𝑻𝒓𝒂𝒄𝒌
+  <b>/move</b> — 𝑴𝒐𝒗𝒆 𝑨 𝑸𝒖𝒆𝒖𝒆𝒅 𝑻𝒓𝒂𝒄𝒌 𝑻𝒐 𝑨𝒏𝒐𝒕𝒉𝒆𝒓 𝑷𝒐𝒔𝒊𝒕𝒊𝒐𝒏
+  <b>/clear</b> — 𝑪𝒍𝒆𝒂𝒓 𝑨𝒍𝒍 𝑺𝒐𝒏𝒈𝒔 𝑭𝒓𝒐𝒎 𝑸𝒖𝒆𝒖𝒆
+  <b>/remove</b> — 𝑹𝒆𝒎𝒐𝒗𝒆 𝑨 𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑻𝒓𝒂𝒄𝒌 𝑭𝒓𝒐𝒎 𝑸𝒖𝒆𝒖𝒆
+  <b>/shuffle</b> — 𝑺𝒉𝒖𝒇𝒇𝒍𝒆 𝑨𝒍𝒍 𝑸𝒖𝒆𝒖𝒆𝒅 𝑻𝒓𝒂𝒄𝒌𝒔
+  <b>/loop</b> — 𝑬𝒏𝒂𝒃𝒍𝒆 𝑶𝒓 𝑫𝒊𝒔𝒂𝒃𝒍𝒆 𝑳𝒐𝒐𝒑𝒊𝒏𝒈
+  <b>/stop</b> — 𝑺𝒕𝒐𝒑 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑨𝒏𝒅 𝑳𝒆𝒂𝒗𝒆 𝑽𝑪
+  <b>/nothumb</b> — 𝑬𝒏𝒂𝒃𝒍𝒆 𝑶𝒓 𝑫𝒊𝒔𝒂𝒃𝒍𝒆 𝑨𝒓𝒕𝒘𝒐𝒓𝒌/𝑻𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝑰𝒏 𝑷𝒍𝒂𝒚𝒃𝒂𝒄𝒌 𝑴𝒆𝒔𝒔𝒂𝒈𝒆𝒔
 
 help_public: |
-  🌍 <b>Public Commands</b>
+  🌍 <b>𝑷𝒖𝒃𝒍𝒊𝒄 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔</b>
 
-  Features for playing songs, viewing queues, checking latency, and reporting bugs.
+  𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔 𝑭𝒐𝒓 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 𝑺𝒐𝒏𝒈𝒔, 𝑽𝒊𝒆𝒘𝒊𝒏𝒈 𝑸𝒖𝒆𝒖𝒆𝒔, 𝑪𝒉𝒆𝒄𝒌𝒊𝒏𝒈 𝑳𝒂𝒕𝒆𝒏𝒄𝒚, 𝑨𝒏𝒅 𝑹𝒆𝒑𝒐𝒓𝒕𝒊𝒏𝒈 𝑩𝒖𝒈𝒔.
 
-  <b>Commands:</b>
-  <b>/play</b> - Play a song
-  <b>/queue</b> - View all tracks currently queued
-  <b>/ping</b> - Check bot’s network latency
-  <b>/start</b> - Start the bot
-  <b>/help</b> - Show help menu
-  <b>/bug</b> - Report an issue or problem
-  <b>/position</b> - Show current track’s timestamp
-  <b>/reload</b> - Reload admin or cache data
-  <b>/json</b> - Show message JSON structure
-  <b>/sudolist</b> - View sudo user list
-  <b>/privacy<b> - open privacy policy
+  <b>𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔:</b>
+  <b>/play</b> — 𝑷𝒍𝒂𝒚 𝑨 𝑺𝒐𝒏𝒈
+  <b>/queue</b> — 𝑽𝒊𝒆𝒘 𝑨𝒍𝒍 𝑻𝒓𝒂𝒄𝒌𝒔 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑸𝒖𝒆𝒖𝒆𝒅
+  <b>/ping</b> — 𝑪𝒉𝒆𝒄𝒌 𝑩𝒐𝒕'𝒔 𝑵𝒆𝒕𝒘𝒐𝒓𝒌 𝑳𝒂𝒕𝒆𝒏𝒄𝒚
+  <b>/start</b> — 𝑺𝒕𝒂𝒓𝒕 𝑻𝒉𝒆 𝑩𝒐𝒕
+  <b>/help</b> — 𝑺𝒉𝒐𝒘 𝑻𝒉𝒆 𝑯𝒆𝒍𝒑 𝑴𝒆𝒏𝒖
+  <b>/bug</b> — 𝑹𝒆𝒑𝒐𝒓𝒕 𝑨𝒏 𝑰𝒔𝒔𝒖𝒆 𝑶𝒓 𝑷𝒓𝒐𝒃𝒍𝒆𝒎
+  <b>/position</b> — 𝑺𝒉𝒐𝒘 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑻𝒓𝒂𝒄𝒌'𝒔 𝑻𝒊𝒎𝒆𝒔𝒕𝒂𝒎𝒑
+  <b>/reload</b> — 𝑹𝒆𝒍𝒐𝒂𝒅 𝑨𝒅𝒎𝒊𝒏 𝑶𝒓 𝑪𝒂𝒄𝒉𝒆 𝑫𝒂𝒕𝒂
+  <b>/json</b> — 𝑺𝒉𝒐𝒘 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 𝑱𝑺𝑶𝑵 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆
+  <b>/sudolist</b> — 𝑽𝒊𝒆𝒘 𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓 𝑳𝒊𝒔𝒕
+  <b>/privacy</b> — 𝑶𝒑𝒆𝒏 𝑷𝒓𝒊𝒗𝒂𝒄𝒚 𝑷𝒐𝒍𝒊𝒄𝒚
